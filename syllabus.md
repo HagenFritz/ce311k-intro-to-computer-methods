@@ -1,25 +1,22 @@
 # CE 311K: Introduction to Computer Methods
 Spring 2024
 
-**Instructors**
-* Primary: Dr. Hagen Fritz _(he, him, his)_
-* Teaching Assistant:
-* Peer Tutor: 
+**Primary Instructor: Dr. Hagen Fritz _(he, him, his)_**
+Office: ECJ x.xxx
 
-**Contact**
-* Office: ECJ x.xxx
-* Email: hagenfritz@utexas.edu
+Email: hagenfritz@utexas.edu
 
-**Office Hours**
+Office Hours
 * M 1:00 pm - 3:00 pm
 * W 10:00 am - 11:00 am
 
 **Lecture Schedule**
-* Location: CPE 2.212
-* Time: MWF 11:00 a.m. – 12:00 p.m.  
+Location: CPE 2.212
+
+Time: MWF 11:00 a.m. – 12:00 p.m.  
 
 **Lab Schedule**
-* 16570: M 2:00 p.m. – 4:00 p.m.
+16570: M 2:00 p.m. – 4:00 p.m.
 * 16575: M 4:00 p.m. – 6:00 p.m.
 * 16580: W 4:00 p.m. – 6:00 p.m.
 
