@@ -62,3 +62,15 @@
   ```
 - **Use in Program Flow**: Booleans are essential in conditions and control structures (e.g., if statements).
 - **Alternative Values**: `True` is often equivalent to `1` and `False` to `0` in calculations.
+
+---
+
+### Summary
+Here’s a summary table of the data types, including descriptions, examples, and common uses:
+
+| **Type**     | **Description**                            | **Examples**                         | **Common Uses**                             |
+|--------------|-------------------------------------------|--------------------------------------|---------------------------------------------|
+| **Integer** (`int`) | Whole numbers, including negatives and zero | `0`, `-5`, `100`, `age = 31`       | Counting items, indexing lists, simple arithmetic |
+| **Float** (`float`) | Numbers with decimals, providing precision | `3.14`, `-2.5`, `temp = 98.6`      | Scientific calculations, measurements, prices |
+| **String** (`str`)  | Sequence of characters, including letters, numbers, and symbols | `"Hello"`, `'Python3'`, `"25"`     | Storing text data, user input, file names, display messages |
+| **Boolean** (`bool`) | Represents truth values: `True` or `False` | `is_valid = True`, `False`         | Conditional checks, flags, binary states (yes/no, on/off) |
