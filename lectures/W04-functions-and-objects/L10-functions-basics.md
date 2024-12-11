@@ -59,8 +59,6 @@ print(result)  # Output: 13
 
 ### Scope: Variables Inside Functions
 Variables created inside a function are called **local variables**, and they are only accessible within that function. This concept is known as **scope**.
-
-### Key Points about Scope
 - Variables inside a function do not interfere with variables outside the function (and vice versa).
 - Once the function has finished running, its local variables are discarded.
 
@@ -97,17 +95,19 @@ print(x)  # Output: 10 (global 'x' is unchanged)
 ### Functions with Multiple Inputs
 You can create functions that take more than one input.
 
-**Example: Area of a Triangle**
+**Example: Area of a Trapezoid**
 ```python
-def calc_area_triangle(base, height):
-    area = 0.5 * base * height
+def calc_area_trapezoid(b1, b2, h):
+    area = 0.5 * (b1 + b2) * h
     return area
 
-area = calc_area_triangle(4, 6)
-print(area)  # Output: 12
+area1 = calc_area_trapezoid(2, 4, 6) # 18
+area2 = calc_area_trapezoid(4, 6, 2) # 10
 ```
 
-#### Using Keyword Arguments
+---
+
+### Using Keyword Arguments
 Keyword arguments explicitly name the parameters, improving clarity and allowing out-of-order inputs.
 
 ```python
@@ -117,6 +117,31 @@ def calc_volume(length, width, height):
 # Using keyword arguments
 volume = calc_volume(width=2, height=4, length=1)
 print(volume)  # Output: 8
+```
+
+#### Using Keyword Arguments with Positional Arguments
+Keyword arguments allow you to specify parameter names in the function call for clarity and flexibility. However, **keyword arguments cannot come before positional arguments** in a function call. This ensures Python can properly match the arguments to their respective parameters.
+1. Positional arguments must always precede keyword arguments in the function call.
+2. Mixing them incorrectly will raise a `SyntaxError`.
+
+
+**Example 1: Correct Usage**
+```python
+def calculate_area(length, width, unit="square meters"):
+    area = length * width
+    return str(area) +  unit
+
+# Positional arguments first, then keyword arguments
+result = calculate_area(5, 10, unit="square feet")
+print(result)  # Output: 50 square feet
+```
+
+**Example 2: Incorrect Usage**
+```python
+# Keyword argument cannot precede positional arguments
+result = calculate_area(unit="square feet", 5, 10)  # SyntaxError
+
+SyntaxError: positional argument follows keyword argument
 ```
 
 ---
