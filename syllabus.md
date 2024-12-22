@@ -50,12 +50,12 @@ Upon successful completion of this course, students will:
 ### Course Schedule
 | Week | Dates | Topic (Lecture) | Lab Focus |
 |------|-------|-----------------|----------------------------|
-| 1 | Jan 13–17 | Course Introduction, Python Basics | No lab this week |
+| 1 | Jan 13–17 | Course Introduction, Python Basics | **No Lab** |
 | 2 | Jan 20–24 | Variables, Data Types, and Conditionals | Introduction to Google Colab, Python setup |
-| 3 | Jan 27–31 | Loops and Functions | Basic programming exercises |
-| 4 | Feb 3–7 | Data Structures: Lists and Dictionaries | Writing and debugging Python functions |
-| 5 | Feb 10–14 | File I/O: Reading and Writing Files | Working with engineering data sets |
-| 6 | Feb 17–21 | Exam 1 Review and Midterm Exam | Automating file handling for engineering data |
+| 3 | Jan 27–31 | Loops and Error Handling | Basic programming exercises |
+| 4 | Feb 3–7 | Functions, Objects, and Methods | Writing and debugging Python functions |
+| 5 | Feb 10–14 | Classes and Libraries | Working with engineering data sets |
+| 6 | Feb 17–21 | Review and Exam 1 | **No Lab** |
 | 7 | Feb 24–28 | Numerical Methods I: Linear Systems | Solving simple systems in Python |
 | 8 | Mar 3–7 | Plotting and Data Visualization | Visualizing engineering data trends |
 | 9 | Mar 10–14 | Numerical Methods II: Interpolation and Curve Fitting | Data fitting in engineering systems |
