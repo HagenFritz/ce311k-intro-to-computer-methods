@@ -38,12 +38,24 @@
 |   | Mar 12    | Plotting with Matplotlib | | |
 |   | Mar 14    | Advanced Plotting | | |
 | - | Mar 17–21 | **Spring Break** | **No Lab** | **No HW** |
-| 10 | Mar 24–28 | Object-Oriented Programming | Plotting and data visualization exercises | [HW #8]() |
+| 10 | Mar 24–28 | Object-Oriented Programming | [Data Visualization]() | [HW #8]() |
 |   | Mar 24    |  | | |
 |   | Mar 26    |  | | |
 |   | Mar 28    |  | | |
 | 11 | Mar 31–Apr 4 | Case Study: Automation in Engineering | Building reusable components for simulations | [HW #9]() |
+|   | Mar 31    |  | | |
+|   | Apr 2     |  | | |
+|   | Apr 4     |  | | |
 | 12 | Apr 7–11 | Advanced Topics: APIs and Data Integration | Modeling systems using Python | [HW #10]() |
+|   | Apr 7     |  | | |
+|   | Apr 9     |  | | |
+|   | Apr 11    |  | | |
 | 13 | Apr 14–18 | Review and Exam 2 | **No Lab** | **No HW** | 
+|   | Apr 14    |  | | |
+|   | Apr 16    |  | | |
+|   | Apr 18    |  | | |
 | 14 | Apr 21–25 | Wrap-up and Course Review | Final Q&A and course conclusion | **No HW** |
+|   | Apr 21    |  | | |
+|   | Apr 23    |  | | |
+|   | Apr 25    |  | | |
 | 15 | Apr 28 (last day) | **Project Q&A Day** | **No Lab** | **No HW** | 
