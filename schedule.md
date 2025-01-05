@@ -25,36 +25,36 @@
 |   | Feb 17    | Review | | |
 |   | Feb 19    | Exam #1 | | |
 |   | Feb 21    | Representing Information | | |
-| 7 | Feb 24–28 | NM I: Sorting, Gradients, and Integration | [Sorting]() | [HW #5]() |
+| 7 | Feb 24–28 | NM I: Sorting, and Integration | [Sorting]() | [HW #5]() |
 |   | Feb 24    | Sorting Methods | | |
-|   | Feb 26    | Gradient Methods | | |
-|   | Feb 28    | Integration Techniques | | |
-| 9 | Mar 3–7   | NM II: Systems of Equations | [Integration]() | [HW #6]() |
-|   | Mar 3     | Root Finding Methods | | |
-|   | Mar 5     | Solving Systems of Equations | | |
-|   | Mar 7     | Optimization | | |
-| 8 | Mar 10–14 | File I/O and Data Visualization | [Root Finding]() | [HW #7]() |
-|   | Mar 10    | Working with Files | | |
-|   | Mar 12    | Plotting with Matplotlib | | |
-|   | Mar 14    | Advanced Plotting | | |
+|   | Feb 26    | More Sorting and Integration | | |
+|   | Feb 28    | More Integration Techniques | | |
+| 8 | Mar 3–7   | Object-Oriented Programming | [Integration]() | [HW #6]() |
+|   | Mar 3     | Classes and Objects | | |
+|   | Mar 5     | Inheritance and Polymorphism | | |
+|   | Mar 7     | Encapsulation and Abstraction | | |
+| 9 | Mar 10–14 | NM II: Roots and Derivation| [Root Finding]() | [HW #7]() |
+|   | Mar 10    | Root Finding Methods | | |
+|   | Mar 12    | Roots and Gradients| | |
+|   | Mar 14    | Derivation Methods | | |
 | - | Mar 17–21 | **Spring Break** | **No Lab** | **No HW** |
-| 10 | Mar 24–28 | Object-Oriented Programming | [Data Visualization]() | [HW #8]() |
-|   | Mar 24    |  | | |
-|   | Mar 26    |  | | |
-|   | Mar 28    |  | | |
-| 11 | Mar 31–Apr 4 | Case Study: Automation in Engineering | Building reusable components for simulations | [HW #9]() |
-|   | Mar 31    |  | | |
-|   | Apr 2     |  | | |
-|   | Apr 4     |  | | |
-| 12 | Apr 7–11 | Advanced Topics: APIs and Data Integration | Modeling systems using Python | [HW #10]() |
-|   | Apr 7     |  | | |
-|   | Apr 9     |  | | |
-|   | Apr 11    |  | | |
+| 10 | Mar 24–28 | File I/O and Data Visualization | [Derivation]() | [HW #8]() |
+|   | Mar 24    | Working with Files | | |
+|   | Mar 26    | Plotting with Matplotlib | | |
+|   | Mar 28    | Advanced Plotting | | |
+| 11 | Mar 31–Apr 4 | NM III: Systems of Equations | [Data Visualization]() | [HW #9]() |
+|   | Mar 31    | Introduction to SoE | | |
+|   | Apr 2     | Methods for Solving SoE | | |
+|   | Apr 4     | Practical Examples for SoE | | |
+| 12 | Apr 7–11 | APIs and Data Integration | [Systems of Equations]() | [HW #10]() |
+|   | Apr 7     | Background and HTTP | | |
+|   | Apr 9     | HTTP Methods in Python | | |
+|   | Apr 11    | Using APIs | | |
 | 13 | Apr 14–18 | Review and Exam 2 | **No Lab** | **No HW** | 
-|   | Apr 14    |  | | |
-|   | Apr 16    |  | | |
+|   | Apr 14    | Review | | |
+|   | Apr 16    | Exam #2 | | |
 |   | Apr 18    |  | | |
-| 14 | Apr 21–25 | Wrap-up and Course Review | Final Q&A and course conclusion | **No HW** |
+| 14 | Apr 21–25 | Wrap-up and Course Review | [APIs]() | **No HW** |
 |   | Apr 21    |  | | |
 |   | Apr 23    |  | | |
 |   | Apr 25    |  | | |
