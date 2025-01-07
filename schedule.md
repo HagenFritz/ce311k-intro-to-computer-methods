@@ -7,7 +7,7 @@
 |   | Jan 17    | Variables, Expressions, and Conditionals | | |
 | 2 | Jan 20–24 | Conditionals and Lists | **No Lab** | [HW #1](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW01_expressions_and_conditionals.ipynb) |
 |   | Jan 20    | **No Lecture** | | |
-|   | Jan 22    | Advanced Conditionals | | |
+|   | Jan 22    | Conditionals Continued| | |
 |   | Jan 24    | Lists | | |
 | 3 | Jan 27–31 | Collections and Loops | [Expressions and Conditionals](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB01_expressions_and_conditionals.ipynb) | [HW #2](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW02_collections_and_loops.ipynb) |
 |   | Jan 27    | Collections | | |
