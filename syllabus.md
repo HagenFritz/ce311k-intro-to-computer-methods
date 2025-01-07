@@ -5,8 +5,8 @@ Spring 2024
 * Office: ECJ x.xxx
 * Email: hagenfritz@utexas.edu
 * Office Hours
-  * M 12:30 pm - 2:30 pm
-  * W 10:00 am - 11:00 am
+  * M 10:00 am - 11:00 am
+  * W 1:00 pm - 2:30 pm
 
 **Lecture Schedule**
 * Location: CPE 2.212
@@ -48,23 +48,23 @@ Upon successful completion of this course, students will:
 
 
 ### Course Schedule
-| Week | Dates | Topic (Lecture) | Lab Focus | HW Due (Fri) |
-|------|-------|-----------------|-----------|--------------| 
+| Week | Dates  | Topic (Lecture) | Lab Focus | Homework |
+|------|--------|-----------------|-----------|--------------| 
 | 1 | Jan 13–17 | Course Introduction and Data Types | **No Lab** | **No HW** |
-| 2 | Jan 20–24 | Variables and Conditionals | [Intro to Google Colab/Python]() | [HW #1]() |
-| 3 | Jan 27–31 | Loops and Error Handling | [Conditionals and Lists]() | [HW #2]() |
-| 4 | Feb 3–7 | Functions, Objects, and Methods | [Loops]() | [HW #3]() |
+| 2 | Jan 20–24 | Conditionals and Lists | **No Lab** | [HW #1]() |
+| 3 | Jan 27–31 | Collections and Loops | [Conditionals and Lists]() | [HW #2]() |
+| 4 | Feb 3–7   | Functions, Objects, and Methods | [Loops]() | [HW #3]() |
 | 5 | Feb 10–14 | Classes and Libraries | [Functions]() | [HW #4]() |
 | 6 | Feb 17–21 | Review and Exam 1 | **No Lab** | **No HW** |
-| 7 | Feb 24–28 | NM I: Gradients and Integration | [Objects and Methods]() | [HW #5]() |
-| 8 | Mar 3–7 | File I/O and Data Visualization | [Integration]() | [HW #6]() |
-| 9 | Mar 10–14 | NM II: Systems of Equations | [Files and Visualization]() | [HW #7]() |
+| 7 | Feb 24–28 | NM I: Sorting, and Integration | [Sorting]() | [HW #5]() |
+| 8 | Mar 3–7   | Object-Oriented Programming | [Integration]() | [HW #6]() |
+| 9 | Mar 10–14 | NM II: Roots and Derivation| [Root Finding]() | [HW #7]() |
 | - | Mar 17–21 | **Spring Break** | **No Lab** | **No HW** |
-| 10 | Mar 24–28 | Object-Oriented Programming | Plotting and data visualization exercises | [HW #8]() |
-| 11 | Mar 31–Apr 4 | Case Study: Automation in Engineering | Building reusable components for simulations | [HW #9]() |
-| 12 | Apr 7–11 | Advanced Topics: APIs and Data Integration | Modeling systems using Python | [HW #10]() |
-| 13 | Apr 14–18 | Review and Exam 2 | **No Lab** | **No HW** | 
-| 14 | Apr 21–25 | Wrap-up and Course Review | Final Q&A and course conclusion | **No HW** |
+| 10 | Mar 24–28 | File I/O and Data Visualization | [Derivation]() | [HW #8]() |
+| 11 | Mar 31–Apr 4 | NM III: Systems of Equations | [Data Visualization]() | [HW #9]() |
+| 12 | Apr 7–11 | Review and Exam 2 | **No Lab** | **No HW** | 
+| 13 | Apr 14–18 | APIs and Data Integration | [Systems of Equations]() | [HW #10]() |
+| 14 | Apr 21–25 | Miscellaneous Topics | [APIs]() | **No HW** |
 | 15 | Apr 28 (last day) | **Project Q&A Day** | **No Lab** | **No HW** | 
 
 ### Attendance
@@ -108,4 +108,4 @@ Portions of this syllabus, including some of the course descriptions and learnin
 * Syllabi and course materials provided by Professors Kumar, Liljestrand, Berkin, and Claudel from past iterations of CE 311K.
 * Official course outlines and objectives from the University of Texas at Austin.
 
-Additionally, some text in this syllabus has been revised and enhanced with the assistance of AI-based tools for clarity and readability.
+_Some text in this syllabus has been revised and enhanced with the assistance of AI-based tools for clarity and readability_
