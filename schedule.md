@@ -33,12 +33,12 @@
 |   | Mar 3     | Classes and Objects | | |
 |   | Mar 5     | Inheritance and Polymorphism | | |
 |   | Mar 7     | Encapsulation and Abstraction | | |
-| 9 | Mar 10–14 | NM II: Roots and Derivation| [Root Finding](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB06_root_finding.ipynb) | [HW #7](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW07_roots_and_derivation.ipynb) |
+| 9 | Mar 10–14 | NM II: Roots and Gradients | [Root Finding](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB06_root_finding.ipynb) | [HW #7](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW07_roots_and_derivation.ipynb) |
 |   | Mar 10    | Root Finding Methods | | |
-|   | Mar 12    | Roots and Gradients| | |
-|   | Mar 14    | Derivation Methods | | |
+|   | Mar 12    | Differentiation | | |
+|   | Mar 14    | Gradients | | |
 | - | Mar 17–21 | **Spring Break** | **No Lab** | **No HW** |
-| 10 | Mar 24–28 | File I/O and Data Visualization | [Derivatives](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB07_derivatives.ipynb) | [HW #8](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW08_data_visualization.ipynb) |
+| 10 | Mar 24–28 | File I/O and Data Visualization | [Gradients](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB07_gradients.ipynb) | [HW #8](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW08_data_visualization.ipynb) |
 |   | Mar 24    | Working with Files | | |
 |   | Mar 26    | Plotting with Matplotlib | | |
 |   | Mar 28    | Advanced Plotting | | |
