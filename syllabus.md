@@ -58,9 +58,9 @@ Upon successful completion of this course, students will:
 | 6 | Feb 17–21 | Review and Exam 1 | **No Lab** | **No HW** |
 | 7 | Feb 24–28 | NM I: Sorting, and Integration | [Sorting]() | [HW #5]() |
 | 8 | Mar 3–7   | Object-Oriented Programming | [Integration]() | [HW #6]() |
-| 9 | Mar 10–14 | NM II: Roots and Derivation| [Root Finding]() | [HW #7]() |
+| 9 | Mar 10–14 | NM II: Roots and Gradients| [Root Finding]() | [HW #7]() |
 | - | Mar 17–21 | **Spring Break** | **No Lab** | **No HW** |
-| 10 | Mar 24–28 | File I/O and Data Visualization | [Derivation]() | [HW #8]() |
+| 10 | Mar 24–28 | File I/O and Data Visualization | [Gradients]() | [HW #8]() |
 | 11 | Mar 31–Apr 4 | NM III: Systems of Equations | [Data Visualization]() | [HW #9]() |
 | 12 | Apr 7–11 | Review and Exam 2 | **No Lab** | **No HW** | 
 | 13 | Apr 14–18 | APIs and Data Integration | [Systems of Equations]() | [HW #10]() |
