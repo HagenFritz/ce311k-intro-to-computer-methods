@@ -9,7 +9,7 @@ Spring 2024
   * W 1:00 pm - 2:30 pm
 
 **Lecture Schedule**
-* Location: CPE 2.212
+* Location: UTC 3.122
 * Time: MWF 11:00 a.m. – 12:00 p.m.  
 
 **Lab Schedule**
@@ -51,20 +51,20 @@ Upon successful completion of this course, students will:
 | Week | Dates  | Topic (Lecture) | Lab Focus | Homework |
 |------|--------|-----------------|-----------|--------------| 
 | 1 | Jan 13–17 | Course Introduction and Data Types | **No Lab** | **No HW** |
-| 2 | Jan 20–24 | Conditionals and Lists | **No Lab** | [HW #1]() |
-| 3 | Jan 27–31 | Collections and Loops | [Conditionals and Lists]() | [HW #2]() |
-| 4 | Feb 3–7   | Functions, Objects, and Methods | [Loops]() | [HW #3]() |
-| 5 | Feb 10–14 | Classes and Libraries | [Functions]() | [HW #4]() |
+| 2 | Jan 20–24 | Conditionals and Lists | **No Lab** | [HW #1](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW01_expressions_and_conditionals.ipynb) |
+| 3 | Jan 27–31 | Collections and Loops | [Expressions and Conditionals](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB01_expressions_and_conditionals.ipynb) | [HW #2](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW02_collections_and_loops.ipynb) |
+| 4 | Feb 3–7   | Functions, Objects, and Methods | [Collections and Loops](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB02_collections_and_loops.ipynb) | [HW #3](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW03_functions_and_methods.ipynb) |
+| 5 | Feb 10–14 | Classes and Libraries | [Functions](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB03_functions.ipynb) | [HW #4](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW04_classes.ipynb) |
 | 6 | Feb 17–21 | Review and Exam 1 | **No Lab** | **No HW** |
-| 7 | Feb 24–28 | NM I: Sorting, and Integration | [Sorting]() | [HW #5]() |
-| 8 | Mar 3–7   | Object-Oriented Programming | [Integration]() | [HW #6]() |
-| 9 | Mar 10–14 | NM II: Roots and Gradients| [Root Finding]() | [HW #7]() |
+| 7 | Feb 24–28 | NM I: Sorting, and Integration | [Sorting](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB04_sorting.ipynb) | [HW #5](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW05_sorting_and_integration.ipynb) |
+| 8 | Mar 3–7   | Object-Oriented Programming | [Integration](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB05_integration.ipynb) | [HW #6](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW06_object_oriented_programming.ipynb) |
+| 9 | Mar 10–14 | NM II: Roots and Gradients| [Root Finding](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB06_root_finding.ipynb) | [HW #7](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW07_roots_and_derivation.ipynb) |
 | - | Mar 17–21 | **Spring Break** | **No Lab** | **No HW** |
-| 10 | Mar 24–28 | File I/O and Data Visualization | [Gradients]() | [HW #8]() |
-| 11 | Mar 31–Apr 4 | NM III: Systems of Equations | [Data Visualization]() | [HW #9]() |
+| 10 | Mar 24–28 | File I/O and Data Visualization | [Gradients](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB07_gradients.ipynb) | [HW #8](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW08_data_visualization.ipynb) |
+| 11 | Mar 31–Apr 4 | NM III: Systems of Equations | [Data Visualization](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB08_data_visualization.ipynb) | [HW #9](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW09_systems_of_equations.ipynb) |
 | 12 | Apr 7–11 | Review and Exam 2 | **No Lab** | **No HW** | 
-| 13 | Apr 14–18 | APIs and Data Integration | [Systems of Equations]() | [HW #10]() |
-| 14 | Apr 21–25 | Miscellaneous Topics | [APIs]() | **No HW** |
+| 13 | Apr 14–18 | APIs and Data Integration | [Systems of Equations](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB09_systems_of_equations.ipynb) | [HW #10](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW10_apis.ipynb) |
+| 14 | Apr 21–25 | Miscellaneous Topics | [APIs](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB10_apis.ipynb) | **No HW** |
 | 15 | Apr 28 (last day) | **Project Q&A Day** | **No Lab** | **No HW** | 
 
 ### Attendance
