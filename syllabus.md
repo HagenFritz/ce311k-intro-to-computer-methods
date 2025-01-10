@@ -27,7 +27,7 @@ _Spring 2025_
   * Thu 1:00 pm - 3:00 pm
   * Fri 12:00 pm - 1:00 pm
 
-#### Lecture Schedule**
+#### Lecture Schedule
 * Location: UTC 3.122
 * Time: MWF 11:00 am – 12:00 pm
 
@@ -53,7 +53,7 @@ Upon successful completion of this course, students will:
 ### Student Outcomes
 This course is designed to achieve the ABET Student Outcomes marked with a ✔️ in the first column.
 |   | Student Outcomes                                                                 |
-|---|----------------------------------------------------------------------------------|
+|---| :---------------------------------------------------------------------------------|
 | ✔️ | An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics |
 |    | An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors |
 | ✔️ | An ability to communicate effectively with a range of audiences                  |
