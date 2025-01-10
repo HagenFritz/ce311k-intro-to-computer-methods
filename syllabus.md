@@ -2,7 +2,7 @@
 Spring 2024
 
 **Primary Instructor: Dr. Hagen Fritz _(he, him, his)_**
-* Office: ECJ x.xxx
+* Office: ECJ
 * Email: hagenfritz@utexas.edu
 * Office Hours
   * M 10:00 am - 11:00 am
@@ -41,10 +41,10 @@ Upon successful completion of this course, students will:
 * **Google Colab**: We will be using [Colab](https://colab.google/) for all assignments this semester. You are not expected to have prior knowledge of this programming environment and we will help set you all up at the beginning of the semester.
 
 ### Grading Breakdown
-- **Homework (15%)**: Broader concepts and smaller-scale coding problems to reinforce programming fundamentals and provide additional practice.
+- **Homework (20%)**: Broader concepts and smaller-scale coding problems to reinforce programming fundamentals and provide additional practice.
 - **Lab Assignments (40%)**: Weekly lab exercises that directly apply programming to solve engineering problems, reinforcing lecture topics.
 - **Exams (25%)**: Two exams focused on assessing students’ understanding of core programming concepts and their ability to apply them.
-- **Final Project (20%)**: Students will demonstrate their programming skills by solving either (1) a predefined, multipart engineering problem or (2) a project of their choosing (subject to instructor approval).
+- **Final Project (15%)**: Students will demonstrate their programming skills by solving either (1) a predefined, multipart engineering problem or (2) a project of their choosing (subject to instructor approval).
 
 
 ### Course Schedule
@@ -70,10 +70,12 @@ Upon successful completion of this course, students will:
 ### Attendance
 Regular **in-person** attendance in both lectures and labs is expected. No virtual option will be provided. Students are​ ​expected to attend all class and laboratory periods​.​ Those who fail to attend class and 
 laboratory regularly are inviting scholastic difficulty. ​If you plan to miss class due to the observance of a religious holiday, please let us know at least two weeks in advance. You will still be responsible for any work you will miss on that day if 
-applicable. Check with us for details or arrangements. For further information check [here](http://catalog.utexas.edu/general-information/academic-policies-and-procedures/attendance/).
+applicable. Check with us for details or arrangements. For further information check here: [http://catalog.utexas.edu/general-information/academic-policies-and-procedures/attendance/](http://catalog.utexas.edu/general-information/academic-policies-and-procedures/attendance/).
 
 ### Course Assignments
-Homework and laboratory assignments will generally be assigned each week and will be due at midnight on the date specified. A ​digital copy​ must be submitted via Canvas to facilitate grading. Late assignments will receive a 10% penalty per day, up to 5 days late. After midnight on the fifth day, you will not be able to receive credit.
+Homework and laboratory assignments will generally be assigned each week. Homework assignments will be assigned on Mondays at 12:00 pm immediately following lecture and will be due the following Monday at 11:00 am. Laboratory assignments will be provided an hour before your schedule section and be due by 11:59 pm the night before your section. A ​digital copy​ must be submitted via Canvas to facilitate grading. Late assignments will receive a 10% penalty per day, up to 10 days late.
+
+You may consult with your peers regarding all assignments, but must submit your own work. Copying and submitting another student's work will result in no credit for both parties and the incident will be reported to [Student Conduct and Academic Integrity Office](https://deanofstudents.utexas.edu/conduct/). More information can be found here: [https://catalog.utexas.edu/general-information/appendices/appendix-c/student-conduct-and-academic-integrity/](https://catalog.utexas.edu/general-information/appendices/appendix-c/student-conduct-and-academic-integrity/)
 
 ### Course Examinations 
 There will be two exams given during the regularly scheduled lecture period. In addition to the material covered in the class lectures, the exams may include questions from your work in the laboratory portion of the class. Exams for this course will be conducted online and will focus on evaluating your understanding of core programming concepts and problem-solving skills. The exams will _not_ test perfect syntax or require you to write code by hand. Instead, you will be asked to:
@@ -101,11 +103,16 @@ Students are strongly encouraged to discuss course topics among themselves, but 
 Formal evaluations of the course and instructor will be conducted at the end of the semester using UT’s official evaluation forms. However, I encourage you to share feedback and suggestions for improving the course content or instruction at any time. If something isn’t working for you, please feel free to reach out - I’m committed to fostering an open dialogue and helping everyone succeed.
 
 ### Statement on Disability and Accessibility
-The university is committed to creating an accessible and inclusive learning environment consistent with university policy and federal and state law. Please let me know if you experience any barriers to learning so I can work with you to ensure you have equal opportunity to participate fully in this course. If you are a student with a disability, or think you may have a disability, and need accommodations please contact Disability and Access (D&A). Please refer to D&A’s website for contact and more information: http://disability.utexas.edu/. If you are already registered with D&A , please deliver your Accommodation Letter to me as early as possible in the semester so we can discuss your approved accommodations and needs in this course.
+The university is committed to creating an accessible and inclusive learning environment consistent with university policy and federal and state law. Please let me know if you experience any barriers to learning so I can work with you to ensure you have equal opportunity to participate fully in this course. If you are a student with a disability, or think you may have a disability, and need accommodations please contact Disability and Access (D&A). Please refer to D&A’s website for contact and more information: [http://disability.utexas.edu/](https://disability.utexas.edu/). If you are already registered with D&A , please deliver your Accommodation Letter to me as early as possible in the semester so we can discuss your approved accommodations and needs in this course.
 
 ### References
 Portions of this syllabus, including some of the course descriptions and learning outcomes, were adapted from materials provided by professors in the Civil, Architectural, and Environmental Engineering Department. Specific references include:
 * Syllabi and course materials provided by Professors Kumar, Liljestrand, Berkin, and Claudel from past iterations of CE 311K.
 * Official course outlines and objectives from the University of Texas at Austin.
+
+### Additional Resources
+* General Information Catalog: [http://catalog.utexas.edu/general-information/](http://catalog.utexas.edu/general-information/)
+* UT Emergency Preparedness: [https://preparedness.utexas.edu/safety/emergency-terms](https://preparedness.utexas.edu/safety/emergency-terms)
+* Restricting information: [https://registrar.utexas.edu/students/records/restrictmyinfo](https://registrar.utexas.edu/students/records/restrictmyinfo)
 
 _Some text in this syllabus has been revised and enhanced with the assistance of AI-based tools for clarity and readability_
