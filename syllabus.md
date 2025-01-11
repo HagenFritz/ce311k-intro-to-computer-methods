@@ -21,7 +21,7 @@ _Spring 2025_
 * Leading the Wednesday Lab Section
 
 #### Peer Advisor: Muhammad Javed
-* Office: Zoom (Link to be sent out later)
+* Zoom Link: https://us05web.zoom.us/j/2370868244?pwd=Lg9ip1XcoYP9z9twaAvh4paHOViJfL.1&omn=83167393571
 * Office Hours:
   * Tue 1:00 pm - 3:00 pm
   * Thu 1:00 pm - 3:00 pm
