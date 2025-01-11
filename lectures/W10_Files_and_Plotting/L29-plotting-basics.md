@@ -74,45 +74,85 @@ plt.show()                                 # Display the plot
 plt.close(2)
 ```
 
-3. **Scatter Plot (`plt.scatter`)**
-   - Plots individual data points.
-   - Ideal for showing relationships between two variables.
+#### Histogram (`plt.hist`)
+- Visualizes the distribution of numerical data.
+- Groups data into intervals (bins) and displays the frequency of data points in each bin.
+- Ideal for understanding data distributions or identifying patterns.
 
-   ```python
-   x = [1, 2, 3, 4, 5]
-   y = [5, 4, 3, 2, 1]
-   plt.scatter(x, y, color='blue', s=50, edgecolor='black')  # Custom color, size, and edge
-   plt.title("Scatter Plot Example")
-   plt.xlabel("X-axis")
-   plt.ylabel("Y-axis")
-   ```
+```python
+# Tensile strength values (in MPa)
+tensile_strength = [250, 260, 255, 270, 275]
+
+# Create a histogram
+plt.figure(3)
+plt.hist(tensile_strength, bins=5, edgecolor='black')  # Specify bins and add edges for clarity
+plt.title("Distribution of Tensile Strength in Tested Materials")  # Add a title
+plt.xlabel("Tensile Strength (MPa)")  # Label the x-axis
+plt.ylabel("Frequency")  # Label the y-axis
+plt.grid(axis='y')  # Add gridlines along the y-axis
+plt.show()  # Display the histogram
+plt.close(3)  # Close the figure
+```
+
+#### Scatter Plot (`plt.scatter`)
+- Plots individual data points.
+- Ideal for showing relationships between two variables.
+
+```python
+# Load vs. Deflection in a beam test
+load = [0, 10, 20, 30, 40, 50]  # (kN)
+deflection = [0, 1.2, 2.5, 3.9, 5.1, 6.3]  # (mm)
+
+# Create a scatter plot
+plt.figure()
+plt.scatter(load, deflection, s=80, color='blue')
+plt.title("Load vs. Deflection in a Beam Test")
+plt.xlabel("Load (kN)")
+plt.ylabel("Deflection (mm)")
+plt.grid(True, linestyle='--', alpha=0.7)
+plt.show()
+plt.close()
+```
+
+#### Pie Chart (`plt.pie`)
+- Visualizes proportions of a whole.
+- Displays data as slices of a circle, with each slice representing a category's contribution.
+- Ideal for showing percentage-based data distributions.
+
+```python
+# Energy source distribution
+labels = ['Coal', 'Solar', 'Wind']
+sizes = [60, 25, 15]  # Percent contribution of each energy source
+
+# Create a pie chart
+plt.figure()
+plt.pie(sizes, labels=labels, colors=['grey', 'gold', 'lightblue'], autopct='%1.1f%%', startangle=90)  # Add percentages and start angle for better readability
+plt.title("Energy Source Distribution")  # Add a title
+plt.show()  # Display the pie chart
+plt.close()  # Close the figure
+```
 
 ---
 
-#### **5. Enhancing Plots with Related Functions**
+### Enhancing Plots with Related Functions
 1. **Titles and Labels**:
    - `plt.title()`: Sets the plot title.
    - `plt.xlabel()`, `plt.ylabel()`: Label the X and Y axes.
 
-   Example:
    ```python
    plt.title("Example Plot")
    plt.xlabel("X-axis Label")
    plt.ylabel("Y-axis Label")
    ```
 
-2. **Grid Lines**:
-   - `plt.grid(True)`: Adds grid lines to improve readability.
+2. **Grid Lines** (`plt.grid(True))`: Adds grid lines to improve readability.
 
-   Example:
    ```python
    plt.grid(linestyle='--', alpha=0.7)
    ```
 
-3. **Legends**:
-   - `plt.legend()`: Adds a legend to the plot.
+3. **Legends** (`plt.legend()`): Adds a legend to the plot.
 
-   Example:
    ```python
    plt.plot([1, 2, 3], [4, 5, 6], label="Line A")
    plt.plot([1, 2, 3], [6, 5, 4], label="Line B")
@@ -124,52 +164,19 @@ plt.close(2)
    - `marker`: Adds markers at data points.
    - `linestyle`: Customizes the line style.
 
-   Example:
    ```python
    plt.plot([1, 2, 3], [4, 5, 6], color='red', marker='o', linestyle='--')
    ```
 
-5. **Saving Figures**:
-   - `plt.savefig('filename.png')`: Saves the figure to a file.
+5. **Saving Figures** (`plt.savefig('filename.png')`): Saves the figure to a file.
 
-   Example:
    ```python
    plt.savefig('plot.png', dpi=300)  # Save with high resolution
    ```
 
----
+7. **Setting Axes Limits** (`plt.xlim()`, `plt.ylim()`): Set limits for the X and Y axes.
 
-#### **6. Common Customization Techniques**
-1. **Multiple Plots in One Figure**:
-   - Use `plt.subplot()` or `plt.subplots()` to create multiple plots.
-
-   Example:
-   ```python
-   fig, axs = plt.subplots(1, 2, figsize=(10, 5))
-   axs[0].plot([1, 2, 3], [4, 5, 6])
-   axs[0].set_title("Plot 1")
-   axs[1].bar(['A', 'B', 'C'], [5, 7, 3])
-   axs[1].set_title("Plot 2")
-   plt.tight_layout()  # Adjusts layout to prevent overlap
-   plt.show()
-   ```
-
-2. **Setting Axes Limits**:
-   - `plt.xlim()`, `plt.ylim()`: Set limits for the X and Y axes.
-
-   Example:
    ```python
    plt.xlim(0, 10)
    plt.ylim(0, 20)
    ```
-
----
-
-### **Summary**
-1. Import `matplotlib.pyplot` as `plt`.
-2. Use `plt.figure()` to create or manage figures.
-3. Plot data using functions like `plt.plot`, `plt.bar`, and `plt.scatter`.
-4. Enhance plots with titles, labels, grids, legends, and more.
-5. Always call `plt.show()` to render plots and `plt.close()` to free resources.
-
-This structure provides a solid foundation for working with Matplotlib. Let me know if you’d like more examples or advanced customizations!
