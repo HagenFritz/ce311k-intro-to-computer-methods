@@ -5,8 +5,8 @@ _Spring 2025_
 * Office: **TBA**
 * Email: hagenfritz@utexas.edu
 * Office Hours
-  * Mon 10:00 am - 11:00 am
-  * Wed 1:00 pm - 2:30 pm
+  * Mon 9:00 am - 10:00 am
+  * Wed 9:30 am - 10:45 am
  
 #### Teaching Assistant: Cesar Davila Hernandez
 * Office: **TBA**
@@ -73,8 +73,8 @@ This course is designed to achieve the ABET Student Outcomes marked with a ✔�
 
 ### Grading Breakdown
 Your final grade will be accessed from 0 to 100 using the +/- system of grading. Your total grade will determined based on the course assignments with the following weights:
-- **Homework (20%)**: Broader concepts and smaller-scale coding problems to reinforce programming fundamentals and provide additional practice.
-- **Lab Assignments (40%)**: Weekly lab exercises that directly apply programming to solve engineering problems, reinforcing lecture topics.
+- **Homework (20%)**: Broader concepts and smaller-scale coding problems to reinforce programming fundamentals and provide additional practice. Your top n-1 homeworks will be counted toward your final grade. 
+- **Lab Assignments (40%)**: Weekly lab exercises that directly apply programming to solve engineering problems, reinforcing lecture topics. Your top n-1 lab assignments will be counted toward your final grade. 
 - **Exams (25%)**: Two exams focused on assessing students’ understanding of core programming concepts and their ability to apply them.
 - **Final Project (15%)**: Students will demonstrate their programming skills by solving either (1) a predefined, multipart engineering problem or (2) a project of their choosing (subject to instructor approval).
 
