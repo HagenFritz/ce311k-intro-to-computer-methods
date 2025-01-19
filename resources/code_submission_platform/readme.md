@@ -203,20 +203,12 @@ def submit_answer(student_name, question_no):
 ---
 
 ## Common Issues
-1. **Execute Function Cells**
-   - 
+
+### 🏃 Execute Function Cells
+Be sure you execute the cells that contain the import statements and the functions. Once you execute them, the functions will be defined allowing you to use them.
    
-1. **Missing Output**
-   - Make sure you run the correct cell
-   - Ensure the code cell produces an evaluated result. A `print` statement shows the output but it isn't actually captured by the function.
+### ❓ Missing Output
+Make sure you run the correct cell that you want to submit prior to executing the `submit_answer` function. Ensure the code cell produces an evaluated result. A `print` statement shows the output but it isn't actually captured by the function. You do not _have_ to have an output as long as your purpose is to have the platform submit the code for you.
 
-3. **Google Form URL or Field ID Errors**:
-   - Verify the form's POST URL and field IDs.
-
-4. **Network Issues**:
-   - Ensure the machine running the notebook has internet access to send requests to Google Forms.
-
----
-
-### **Conclusion**
-This setup allows students to submit their code and its output directly from a Jupyter Notebook to a Google Form, streamlining the submission and review process.
+### 📃 Google Form URL or Field ID Errors
+Verify the form's POST URL and field IDs. If you do not get a 200 response from your POST request, then double-check your URL. If you are missing data in your Google Sheet after successful submission, then something is wrong with your field IDs. 
