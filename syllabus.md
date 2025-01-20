@@ -32,6 +32,7 @@ _Spring 2025_
 * Time: MWF 11:00 am – 12:00 pm
 
 #### Lab Schedule
+* Location: ECJ 2.210
 * 16570: M 2:00 pm – 4:00 pm
 * 16575: M 4:00 pm – 6:00 pm
 * 16580: W 4:00 pm – 6:00 pm
