@@ -28,9 +28,9 @@
     "Tuesday": [
         {
             "name": "TA Cesar Hernandez",
-            "location": "ECJ 3.120",
-            "start": "17:00",
-            "end": "18:00"
+            "location": "ECJ 6.406",
+            "start": "18:00",
+            "end": "19:00"
         },
         {
             "name": "Peer Adv. Muhammad Javed",
@@ -62,7 +62,7 @@
     "Thursday": [
         {
             "name": "TA Cesar Hernandez",
-            "location": "ECJ 3.120",
+            "location": "ECJ 6.406",
             "start": "8:00",
             "end": "9:00"
         },

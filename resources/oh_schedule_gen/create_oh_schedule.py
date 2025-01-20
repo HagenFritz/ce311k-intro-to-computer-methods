@@ -17,7 +17,7 @@ def create_calendar(oh_data):
     
     # Define the days and times
     days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']
-    times = [f"{hour:02d}:00" for hour in range(8, 19)]  # 8 AM to 6 PM
+    times = [f"{hour:02d}:00" for hour in range(8, 20)]  # 8 AM to 7 PM
     
     # Create the grid
     n_times = len(times)
