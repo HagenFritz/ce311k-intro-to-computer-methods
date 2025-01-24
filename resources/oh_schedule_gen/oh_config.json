@@ -3,7 +3,7 @@
         {
             "name": "Prof. Hagen Fritz",
             "location": "ECJ 1.230",
-            "start": "09:30",
+            "start": "09:00",
             "end": "10:30"
         },
         {
@@ -33,10 +33,10 @@
             "end": "19:00"
         },
         {
-            "name": "Peer Adv. Muhammad Javed",
+            "name": "Peer Adv. Dhruv Srivastava",
             "location": "Zoom (See Syllabus)",
-            "start": "13:00",
-            "end": "15:00"
+            "start": "16:00",
+            "end": "17:00"
         }
     ],
     "Wednesday": [
@@ -71,26 +71,20 @@
             "location": "ECJ 6.406",
             "start": "9:30",
             "end": "10:30"
-        },
-        {
-            "name": "Peer Adv. Muhammad Javed",
-            "location": "Zoom (See Syllabus)",
-            "start": "13:00",
-            "end": "15:00"
         }
     ],
     "Friday": [
+        {
+            "name": "Prof. Hagen Fritz",
+            "location": "By Appointment",
+            "start": "08:00",
+            "end": "10:30"
+        },
         {
             "name": "Class",
             "location": "UTC 3.122",
             "start": "11:00",
             "end": "12:00"
-        },
-        {
-            "name": "Peer Adv. Muhammad Javed",
-            "location": "Zoom (See Syllabus)",
-            "start": "12:00",
-            "end": "13:00"
         }
     ]
 }
