@@ -2,27 +2,28 @@
 _Spring 2025_
 
 #### Primary Instructor: Dr. Hagen Fritz _(he, him, his)_
-* Office: **TBA**
+* Office: ECJ 1.230
 * Email: hagenfritz@utexas.edu
 * Office Hours
   * Mon 9:00 am - 10:00 am
   * Wed 9:30 am - 10:45 am
  
 #### Teaching Assistant: Cesar Davila Hernandez
-* Office: **TBA**
+* Office: ECJ 6.406
 * Email: cesardavilahernandez@utexas.edu
-* Office Hours: **TBA**
-* Leading the Monday Lab Sections
+* Office Hours
+  * Tue 6:00 pm - 7:00 pm
+  * Thu 8:00 am - 9:00 am
 
 #### Teaching Assistant: Zahra Bajalan
-* Office: **TBA**
+* Office: ECJ 6.406
 * Email: zbajalan@utexas.edu
-* Office Hours: **TBA**
-* Leading the Wednesday Lab Section
+* Office Hours
+  * Thu 9:30 am - 10:30 am
 
 #### Peer Advisor: Muhammad Javed
 * Zoom Link: https://us05web.zoom.us/j/2370868244?pwd=Lg9ip1XcoYP9z9twaAvh4paHOViJfL.1&omn=83167393571
-* Office Hours:
+* Office Hours
   * Tue 1:00 pm - 3:00 pm
   * Thu 1:00 pm - 3:00 pm
   * Fri 12:00 pm - 1:00 pm
@@ -121,7 +122,7 @@ No final exam will be scheduled for this course. Instead, you will complete an i
 
 The project will be completed individually, and you will submit both your code and brief documentation explaining your approach and the results. Your project should include well-structured, readable code that solves the problem effectively. It should demonstrate your ability to implement the programming and problem-solving techniques discussed in class.
 
-Projects are due _at midnight_ on the date of our course's final exam date. You can find the final exam schedule here:[https://registrar.utexas.edu/schedules/242/finals](https://registrar.utexas.edu/schedules/242/finals). 
+Projects are due _at midnight_ on the date of our course's final exam date. You can find the final exam schedule [here](https://registrar.utexas.edu/schedules/242/finals). 
 
 ### Student 
 
