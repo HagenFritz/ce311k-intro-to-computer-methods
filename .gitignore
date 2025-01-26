@@ -219,4 +219,4 @@ replay_pid*
 *DS_*
 
 *notes/*/*.pdf
-*data/*
+*src/*/data/*
