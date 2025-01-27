@@ -17,9 +17,15 @@ def execute_code(code, expected_output, name, question_number):
         # Prepare a local scope for execution
         local_scope = {}
 
-        # Execute all lines of code
+        # TODO: combine this with the code block below
         if len(lines) > 1:
-            exec("\n".join(lines[:-1]), {}, local_scope)  # Execute all but the last line
+            # Try to execute all lines of code
+            try:
+                exec("\n".join(lines), {}, local_scope)  # Execute all but the last line
+                output = local_scope.get("output", None)  # Check if `output` is in scope
+            except Exception as e:
+                print(f"Tried running all lines of code, perhaps output is on last line. Running all but last line.")
+                exec("\n".join(lines[:-1]), {}, local_scope)  # Execute all but the last line
 
         # Handle the last line
         output = None
@@ -83,13 +89,16 @@ def process_excel(file_path, expected_outputs):
 
         # Iterate through rows (assume headers are in the first row)
         for row in sheet.iter_rows(min_row=2, values_only=True):  # Skip the header row
-            submission_time, name, code, question_number, output = row[:5]
+            submission_time, name, question_number, code, output = row[:5]
             
             # Skip rows with empty name, code, or question number
             if not name or not code or not question_number:
                 continue
 
             if int(question_number) == 0:
+                continue
+
+            if name.strip() != "Joseph Barrett":
                 continue
 
             question_number = str(question_number)  # Ensure question number is a string
@@ -106,7 +115,7 @@ def process_excel(file_path, expected_outputs):
                 correct_questions[name].append(question_number)
                 processed_questions[name].add(question_number)
     except Exception as e:
-        print(f"An error occurred while processing the file: {e}")
+        print(f"An error occurred while processing the file at line {e.__traceback__.tb_lineno}: {e}")
     return scores, correct_questions
 
 # Write the results to an output CSV file
