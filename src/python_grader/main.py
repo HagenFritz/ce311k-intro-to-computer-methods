@@ -17,7 +17,6 @@ def execute_code(code, expected_output, name, question_number):
         # Prepare a local scope for execution
         local_scope = {}
 
-        # TODO: combine this with the code block below
         if len(lines) > 1:
             # Try to execute all lines of code
             try:
@@ -25,24 +24,26 @@ def execute_code(code, expected_output, name, question_number):
                 output = local_scope.get("output", None)  # Check if `output` is in scope
             except Exception as e:
                 print(f"Tried running all lines of code, perhaps output is on last line. Running all but last line.")
-                exec("\n".join(lines[:-1]), {}, local_scope)  # Execute all but the last line
-
-        # Handle the last line
-        output = None
-        if lines:
-            last_line = lines[-1].strip()
-            if "=" not in last_line:  # If no assignment operator is in the last line
                 try:
-                    # Dynamically evaluate the last line and assign its result to `output`
-                    last_line = f"output = {last_line}"
-                    output = eval(last_line, {}, local_scope)
-                    local_scope["output"] = output  # Save to `output` for consistency
-                except (SyntaxError, NameError):
-                    output = local_scope.get("output", None)  # Fallback to existing `output`
-            else:
-                # Last line contains an assignment, execute it as regular Python code
-                exec(last_line, {}, local_scope)
-                output = local_scope.get("output", None)  # Check if `output` is in scope
+                    exec("\n".join(lines[:-1]), {}, local_scope)  # Execute all but the last line
+                except Exception as e:
+                    print(f"Failed running all but last line: {e}")
+                    return False
+
+                # Handle the last line
+                last_line = lines[-1].strip()
+                if "=" not in last_line:  # If no assignment operator is in the last line
+                    try:
+                        # Dynamically evaluate the last line and assign its result to `output`
+                        last_line = f"output = {last_line}"
+                        output = eval(last_line, {}, local_scope)
+                        local_scope["output"] = output  # Save to `output` for consistency
+                    except (SyntaxError, NameError):
+                        output = local_scope.get("output", None)  # Fallback to existing `output`
+                else:
+                    # Last line contains an assignment, execute it as regular Python code
+                    exec(last_line, {}, local_scope)
+                    output = local_scope.get("output", None)  # Check if `output` is in scope
 
         # Handle regex matching for the expected output
         if isinstance(expected_output, str) and expected_output.startswith("regex:"):
@@ -98,8 +99,8 @@ def process_excel(file_path, expected_outputs):
             if int(question_number) == 0:
                 continue
 
-            if name.strip() != "Joseph Barrett":
-                continue
+            #if name.strip() != "Ashleigh DeVore":
+            #    continue
 
             question_number = str(question_number)  # Ensure question number is a string
             expected_output = expected_outputs.get(question_number, None)
