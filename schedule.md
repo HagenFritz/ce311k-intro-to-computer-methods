@@ -22,40 +22,40 @@
 |   | Feb 12    | Classes Continued| | |
 |   | Feb 14    | Modules, Packages, and Libraries | | |
 | 6 | Feb 17–21 | Review and Exam 1 | **No Lab** | **No HW** |
-|   | Feb 17    | Review | | |
+|   | Feb 17    | Optional: Review Day | | |
 |   | Feb 19    | Exam #1 | | |
-|   | Feb 21    | Representing Information | | |
-| 7 | Feb 24–28 | NM I: Sorting, and Integration | [Sorting](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB04_sorting.ipynb) | [HW #5](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW05_sorting_and_integration.ipynb) |
-|   | Feb 24    | Sorting Methods | | |
-|   | Feb 26    | More Sorting and Integration | | |
+|   | Feb 21    | Virtual: Representing Information | | |
+| 7 | Feb 24–28 | NM I: Differentiation and Integration | Differentiation | HW #5 |
+|   | Feb 24    | Differentiation Methods | | |
+|   | Feb 26    | Introduction to Integration | | |
 |   | Feb 28    | More Integration Techniques | | |
-| 8 | Mar 3–7   | Object-Oriented Programming | [Integration](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB05_integration.ipynb) | [HW #6](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW06_object_oriented_programming.ipynb) |
-|   | Mar 3     | Classes and Objects | | |
-|   | Mar 5     | Inheritance and Polymorphism | | |
-|   | Mar 7     | Encapsulation and Abstraction | | |
-| 9 | Mar 10–14 | NM II: Roots and Gradients | [Root Finding](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB06_root_finding.ipynb) | [HW #7](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW07_roots_and_derivation.ipynb) |
-|   | Mar 10    | Root Finding Methods | | |
-|   | Mar 12    | Differentiation | | |
-|   | Mar 14    | Gradients | | |
+| 8 | Mar 3–7   | Debugging and Datetime | Integration | HW #6 |
+|   | Mar 3     | Error Handling | | |
+|   | Mar 5     | Datetime | | |
+|   | Mar 7     | Debugging | | |
+| 9 | Mar 10–14 | NM II: Gradients and Roots | Gradients | HW #7 |
+|   | Mar 10    | Gradients | | |
+|   | Mar 12    | Root Finding | | |
+|   | Mar 14    | More Root Finding | | |
 | - | Mar 17–21 | **Spring Break** | **No Lab** | **No HW** |
-| 10 | Mar 24–28 | File I/O and Data Visualization | [Gradients](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB07_gradients.ipynb) | [HW #8](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW08_data_visualization.ipynb) |
-|   | Mar 24    | Working with Files | | |
-|   | Mar 26    | Plotting with Matplotlib | | |
-|   | Mar 28    | Advanced Plotting | | |
-| 11 | Mar 31–Apr 4 | NM III: Systems of Equations | [Data Visualization](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB08_data_visualization.ipynb) | [HW #9](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW09_systems_of_equations.ipynb) |
-|   | Mar 31    | Introduction to SoE | | |
-|   | Apr 2     | Methods for Solving SoE | | |
-|   | Apr 4     | Practical Examples for SoE | | |
-| 12 | Apr 7–11 | Review and Exam 2 | **No Lab** | **No HW** | 
-|   | Apr 7     | Flex Day | | |
-|   | Apr 9     | Review | | |
-|   | Apr 11    | Exam #2 | | |
-| 13 | Apr 14–18 | APIs and Data Integration | [Systems of Equations](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB09_systems_of_equations.ipynb) | [HW #10](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW10_apis.ipynb) |
-|   | Apr 14    | Background and HTTP | | |
-|   | Apr 16    | HTTP Methods in Python | | |
-|   | Apr 18    | Using APIs | | |
-| 14 | Apr 21–25 | Miscellaneous Topics | [APIs](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB10_apis.ipynb) | **No HW** |
-|   | Apr 21    | Error Handling and Debugging | | |
-|   | Apr 23    | Datetime Variables | | |
-|   | Apr 25    | Project Introduction and Overview | | |
+| 10 | Mar 24–28 | Sorting and Algorithms | Root Finding | HW #8 |
+|   | Mar 24    | Sorting Methods | | |
+|   | Mar 26    | More Sorting Methods | | |
+|   | Mar 28    | Algorithm Efficiency | | |
+| 11 | Mar 31–Apr 4 | File I/O and Data Visualization | Sorting Methods | HW #9 |
+|   | Mar 31    | Working with Files | | |
+|   | Apr 2    | Plotting with Matplotlib | | |
+|   | Apr 4    | More Plotting | | |
+| 12 | Apr 7–11 | NM III: Systems of Equations | Data Visualization | HW #10 |
+|   | Apr 7    | Introduction to SoE | | |
+|   | Apr 9     | Methods for Solving SoE | | |
+|   | Apr 11     | Practical Examples for SoE | | |
+| 13 | Apr 14–18 | Review and Exam 2 | **No Lab** | **No HW** | 
+|   | Apr 14     | Flex Day | | |
+|   | Apr 16     | Review | | |
+|   | Apr 18    | Exam #2 | | |
+| 14 | Apr 21–25 | APIs and Data Integration | [Systems of Equations](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB09_systems_of_equations.ipynb) | **No HW** |
+|   | Apr 21    | Background and HTTP | | |
+|   | Apr 23    | HTTP Methods in Python | | |
+|   | Apr 25    | Using APIs | | |
 | 15 | Apr 28 (last day) | **Project Q&A Day** | **No Lab** | **No HW** | 
