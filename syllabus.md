@@ -7,7 +7,7 @@ _Spring 2025_
 * Office Hours
   * Mon 9:00 am - 10:30 am
   * Wed 8:30 am - 10:00 am
-  * Fri 8:00 - 10:30 _by appointment only_
+  * Fri 8:00 - 10:30 _by appointment only_p
  
 #### Teaching Assistant: Cesar Davila Hernandez
 * Office: ECJ 6.406
@@ -91,16 +91,16 @@ Your final grade will be accessed from 0 to 100 using the +/- system of grading.
 | 4 | Feb 3–7   | Functions, Objects, and Methods | [Collections and Loops](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB02_collections_and_loops.ipynb) | [HW #3](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW03_functions_and_methods.ipynb) |
 | 5 | Feb 10–14 | Classes and Libraries | [Functions](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB03_functions.ipynb) | [HW #4](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW04_classes.ipynb) |
 | 6 | Feb 17–21 | Review and Exam 1 | **No Lab** | **No HW** |
-| 7 | Feb 24–28 | NM I: Sorting, and Integration | [Sorting](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB04_sorting.ipynb) | [HW #5](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW05_sorting_and_integration.ipynb) |
-| 8 | Mar 3–7   | Object-Oriented Programming | [Integration](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB05_integration.ipynb) | [HW #6](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW06_object_oriented_programming.ipynb) |
-| 9 | Mar 10–14 | NM II: Roots and Gradients| [Root Finding](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB06_root_finding.ipynb) | [HW #7](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW07_roots_and_derivation.ipynb) |
+| 7 | Feb 24–28 | NM I: Differentiation and Integration | Differentiation | HW #5 |
+| 8 | Mar 3–7   | Debugging and Datetime | Integration | HW #6 |
+| 9 | Mar 10–14 | NM II: Gradients and Roots | Gradients | HW #7 |
 | - | Mar 17–21 | **Spring Break** | **No Lab** | **No HW** |
-| 10 | Mar 24–28 | File I/O and Data Visualization | [Gradients](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB07_gradients.ipynb) | [HW #8](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW08_data_visualization.ipynb) |
-| 11 | Mar 31–Apr 4 | NM III: Systems of Equations | [Data Visualization](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB08_data_visualization.ipynb) | [HW #9](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW09_systems_of_equations.ipynb) |
-| 12 | Apr 7–11 | Review and Exam 2 | **No Lab** | **No HW** | 
-| 13 | Apr 14–18 | APIs and Data Integration | [Systems of Equations](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB09_systems_of_equations.ipynb) | [HW #10](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW10_apis.ipynb) |
-| 14 | Apr 21–25 | Miscellaneous Topics | [APIs](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB10_apis.ipynb) | **No HW** |
-| 15 | Apr 28 (last day) | **Project Q&A Day** | **No Lab** | **No HW** | 
+| 10 | Mar 24–28 | Sorting and Algorithms | Root Finding | HW #8 |
+| 11 | Mar 31–Apr 4 | File I/O and Data Visualization | Sorting Methods | HW #9 |
+| 12 | Apr 7–11 | NM III: Systems of Equations | Data Visualization | HW #10 |
+| 13 | Apr 14–18 | Review and Exam 2 | **No Lab** | **No HW** | 
+| 14 | Apr 21–25 | APIs and Data Integration | [Systems of Equations](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB09_systems_of_equations.ipynb) | **No HW** |
+| 15 | Apr 28 (last day) | **Project Q&A Day** | **No Lab** | **No HW** |
 
 ### Attendance
 Regular **in-person** attendance in both lectures and labs is expected, but is not required and will no be counted toward your final grade. No virtual option will be provided. Students are​ ​expected to attend all class and laboratory periods​.​ Those who fail to attend class and laboratory regularly are inviting scholastic difficulty. ​If you plan to miss an an assignment or need an extension due to the observance of a religious holiday or a similar extenuating circumstance, please let us know at least two weeks in advance. You will still be responsible for any work you will miss on that day if applicable. For further information check here: [http://catalog.utexas.edu/general-information/academic-policies-and-procedures/attendance/](http://catalog.utexas.edu/general-information/academic-policies-and-procedures/attendance/).
