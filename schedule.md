@@ -38,24 +38,24 @@
 |   | Mar 12    | Root Finding | | |
 |   | Mar 14    | More Root Finding | | |
 | - | Mar 17–21 | **Spring Break** | **No Lab** | **No HW** |
-| 10 | Mar 24–28 | Sorting and Algorithms | Root Finding | HW #8 |
-|   | Mar 24    | Sorting Methods | | |
-|   | Mar 26    | More Sorting Methods | | |
-|   | Mar 28    | Algorithm Efficiency | | |
-| 11 | Mar 31–Apr 4 | File I/O and Data Visualization | Sorting Methods | HW #9 |
-|   | Mar 31    | Working with Files | | |
-|   | Apr 2    | Plotting with Matplotlib | | |
-|   | Apr 4    | More Plotting | | |
-| 12 | Apr 7–11 | NM III: Systems of Equations | Data Visualization | HW #10 |
-|   | Apr 7    | Introduction to SoE | | |
-|   | Apr 9     | Methods for Solving SoE | | |
-|   | Apr 11     | Practical Examples for SoE | | |
+| 10 | Mar 24–28 | File I/O and Data Visualization | Root Finding | HW #8 |
+|   | Mar 24    | Working with Files | | |
+|   | Mar 26    | Plotting with Matplotlib | | |
+|   | Mar 28    | More Plotting | | |
+| 11 | Mar 31–Apr 4 | APIs and Data Integration | Time Complexity: Sorting | HW #9 |
+|   | Mar 31    | Background and HTTP | | |
+|   | Apr 2     | HTTP Methods in Python | | |
+|   | Apr 4     | Using APIs | | |
+| 12 | Apr 7–11 | Data Processing | APIs | HW #10 |
+|   | Apr 7     | Cleaning | | |
+|   | Apr 9     | Transformations and Encoding | | |
+|   | Apr 11    | Validating | | |
 | 13 | Apr 14–18 | Review and Exam 2 | **No Lab** | **No HW** | 
 |   | Apr 14     | Flex Day | | |
 |   | Apr 16     | Review | | |
 |   | Apr 18    | Exam #2 | | |
-| 14 | Apr 21–25 | APIs and Data Integration | [Systems of Equations](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB09_systems_of_equations.ipynb) | **No HW** |
-|   | Apr 21    | Background and HTTP | | |
-|   | Apr 23    | HTTP Methods in Python | | |
-|   | Apr 25    | Using APIs | | |
+| 14 | Apr 21–25 | AI | Data Pipelines | **No HW** |
+|   | Apr 21    | Background | | |
+|   | Apr 23    | Leveraging AI | | |
+|   | Apr 25    | Your First Chatbot | | |
 | 15 | Apr 28 (last day) | **Project Q&A Day** | **No Lab** | **No HW** | 
