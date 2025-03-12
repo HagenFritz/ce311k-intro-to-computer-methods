@@ -83,24 +83,24 @@ Your final grade will be accessed from 0 to 100 using the +/- system of grading.
 
 
 ### Course Schedule
-| Week | Dates  | Topic (Lecture) | Lab Focus | Homework |
-|------|--------|-----------------|-----------|--------------| 
-| 1 | Jan 13–17 | Course Introduction and Data Types | **No Lab** | **No HW** |
-| 2 | Jan 20–24 | Conditionals and Lists | **No Lab** | [HW #1](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW01_expressions_and_conditionals.ipynb) |
-| 3 | Jan 27–31 | Collections and Loops | [Expressions and Conditionals](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB01_expressions_and_conditionals.ipynb) | [HW #2](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW02_collections_and_loops.ipynb) |
-| 4 | Feb 3–7   | Functions, Objects, and Methods | [Collections and Loops](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB02_collections_and_loops.ipynb) | [HW #3](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW03_functions_and_methods.ipynb) |
-| 5 | Feb 10–14 | Classes and Libraries | [Functions](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB03_functions.ipynb) | [HW #4](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW04_classes.ipynb) |
-| 6 | Feb 17–21 | Review and Exam 1 | **No Lab** | **No HW** |
-| 7 | Feb 24–28 | NM I: Differentiation and Integration | Differentiation | HW #5 |
-| 8 | Mar 3–7   | Debugging and Datetime | Integration | HW #6 |
-| 9 | Mar 10–14 | NM II: Gradients and Roots | Gradients | HW #7 |
-| - | Mar 17–21 | **Spring Break** | **No Lab** | **No HW** |
-| 10 | Mar 24–28 | Sorting and Algorithms | Root Finding | HW #8 |
-| 11 | Mar 31–Apr 4 | File I/O and Data Visualization | Sorting Methods | HW #9 |
-| 12 | Apr 7–11 | NM III: Systems of Equations | Data Visualization | HW #10 |
-| 13 | Apr 14–18 | Review and Exam 2 | **No Lab** | **No HW** | 
-| 14 | Apr 21–25 | APIs and Data Integration | [Systems of Equations](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB09_systems_of_equations.ipynb) | **No HW** |
-| 15 | Apr 28 (last day) | **Project Q&A Day** | **No Lab** | **No HW** |
+| Week | Dates       | Main Topics                              | Lab Focus                                           | Homework  |
+|-----:|:-----------:|:-----------------------------------------|:----------------------------------------------------|:----------|
+| 1    | Jan 13–17   | **Course Intro & Data Types**            | *No Lab*                                            | *No HW*   |
+| 2    | Jan 20–24   | **Conditionals & Lists**                 | *No Lab*                                            | [HW #1](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW01_expressions_and_conditionals.ipynb) |
+| 3    | Jan 27–31   | **Collections & Loops**                  | [Expressions & Conditionals](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB01_expressions_and_conditionals.ipynb) | [HW #2](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW02_collections_and_loops.ipynb) |
+| 4    | Feb 3–7     | **Functions, Objects & Methods**         | [Collections & Loops](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB02_collections_and_loops.ipynb)             | [HW #3](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW03_functions_and_methods.ipynb) |
+| 5    | Feb 10–14   | **Classes & Libraries**                  | [Functions](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/labs/LAB03_functions.ipynb)                                    | [HW #4](https://github.com/HagenFritz/ce311k-intro-to-computer-methods/blob/main/homeworks/HW04_classes.ipynb) |
+| 6    | Feb 17–21   | **Review & Exam #1**                     | *No Lab*                                            | *No HW*   |
+| 7    | Feb 24–28   | **NM I: Differentiation & Integration**   | Differentiation                                     | HW #5     |
+| 8    | Mar 3–7     | **Debugging & Datetime**                 | Integration                                         | HW #6     |
+| 9    | Mar 10–14   | **NM II: Gradients & Roots**             | Gradients                                           | HW #7     |
+| –    | Mar 17–21   | **Spring Break**                         | *No Lab*                                            | *No HW*   |
+| 10   | Mar 24–28   | **File I/O & Data Visualization**        | Root Finding                                        | HW #8     |
+| 11   | Mar 31–Apr 4| **APIs & Data Integration**              | Time Complexity: Sorting                            | HW #9     |
+| 12   | Apr 7–11    | **Data Processing**                      | APIs                                                | HW #10    |
+| 13   | Apr 14–18   | **Review & Exam #2**                     | *No Lab*                                            | *No HW*   |
+| 14   | Apr 21–25   | **AI**                                   | Data Pipelines                                      | *No HW*   |
+| 15   | Apr 28      | **Project Q&A Day**                      | *No Lab*                                            | *No HW*   |
 
 ### Attendance
 Regular **in-person** attendance in both lectures and labs is expected, but is not required and will no be counted toward your final grade. No virtual option will be provided. Students are​ ​expected to attend all class and laboratory periods​.​ Those who fail to attend class and laboratory regularly are inviting scholastic difficulty. ​If you plan to miss an an assignment or need an extension due to the observance of a religious holiday or a similar extenuating circumstance, please let us know at least two weeks in advance. You will still be responsible for any work you will miss on that day if applicable. For further information check here: [http://catalog.utexas.edu/general-information/academic-policies-and-procedures/attendance/](http://catalog.utexas.edu/general-information/academic-policies-and-procedures/attendance/).
@@ -128,7 +128,7 @@ Projects are due _at midnight_ on the date of our course's final exam date. You 
 ### Student 
 
 ### Academic Integrity 
-Sharing of course materials is prohibited. No materials used in this class, including but not limited to lecture handouts, videos, assessments (quizzes, exams, papers, projects, homework assignments), in-class materials, review sheets, and additional problem sets, may be shared online or with anyone outside of the class unless you have my explicit written permission. Unauthorized sharing of materials promotes cheating, violates the University’s Student Honor Code, and constitutes academic dishonesty. Any materials found online that are associated with you, or any suspected unauthorized sharing of materials, will be reported to Student Conduct and Academic Integrity in the Office of the Dean of Students. These reports can result in sanctions, including failure in the course.You are responsible for understanding [UT’s Academic Honesty and the University Honor Code](http://catalog.utexas.edu/general-information/appendices/appendix-c/student-discipline-and-conduct/).
+Sharing of course materials is prohibited. No materials used in this class, including but not limited to lecture handouts, videos, assessments (quizzes, exams, papers, projects, homework assignments), in-class materials, review sheets, and additional problem sets, may be shared online or with anyone outside of the class unless you have my explicit written permission. Unauthorized sharing of materials promotes cheating, violates the University’s Student Honor Code, and constitutes academic dishonesty. Any materials found online that are associated with you, or any suspected unauthorized sharing of materials, will be reported to Student Conduct and Academic Integrity in the Office of the Dean of Students. These reports can result in sanctions, including failure in the course.You are responsible for understanding UT’s Academic Honesty and the University Honor Code: https://catalog.utexas.edu/general-information/appendices/appendix-c/student-discipline-and-conduct/.
 
 Students are strongly encouraged to discuss course topics among themselves, but all work submitted for this class ​must​ be entirely your own. This requirement will be strictly enforced for all assignments. In doing class assignments, you may consult with your fellow classmates regarding the most appropriate solution to a given problem. However, ​each student must prepare his or her own, individual submission for each assignment​. ​Identical copies of scripts or data plots are not acceptable​. 
 
