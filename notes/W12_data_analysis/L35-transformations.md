@@ -9,8 +9,6 @@
 - To **derive new variables** that are more useful than the raw ones (e.g. `dew point`, `energy per square foot`)
 - To **scale or normalize** values for comparison
 
----
-
 ## 🔧 Common Types of Transformations
 
 ### ⚙️ Unit Conversions
