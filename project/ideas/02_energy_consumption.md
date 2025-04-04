@@ -21,7 +21,7 @@ Where:
 #### **Energy Consumption Prediction Formula**
 After calculating **WBT** for cooling, and using the dry-bulb temperature for heating, the energy consumption formulas will use different conversion factors for **heating** and **cooling**:
 
-#### **Heating Energy**:
+#### **Heating Energy**
 $$
 \text{Heating Energy (kWh)} = \sum \left(\text{Dry-Bulb Temperature} \times \text{Building Area} \times \text{Insulation Factor} \times \text{Heating Conversion Factor}\right)
 $$
@@ -30,7 +30,7 @@ Where:
 - **Heating Conversion Factor** varies by building type (see below)
 - **Insulation Factor** varies by building type (see below)
   
-#### **Cooling Energy**:
+#### **Cooling Energy**
 $$
 \text{Cooling Energy (kWh)} = \sum \left(\text{WBT} \times \text{Building Area} \times \text{Insulation Factor} \times \text{Cooling Conversion Factor}\right)
 $$
@@ -39,7 +39,7 @@ Where:
 - **Cooling Conversion Factor** varies by building type (see below)
 - **Insulation Factor** varies by building type (see below)
 
-#### **Conversion Factors**:
+#### **Conversion Factors**
 The **conversion factors** are assigned differently for **heating** and **cooling** and depend on the building type. The factors reflect the varying efficiency of different building types.
 
 | Building Type   | Heating Conversion Factor (kWh per °C per square foot) | Cooling Conversion Factor (kWh per °C per square foot) |
@@ -48,12 +48,12 @@ The **conversion factors** are assigned differently for **heating** and **coolin
 | **Residential**  | 0.020                                                  | 0.022                                                 |
 | **Commercial**   | 0.025                                                  | 0.028                                                 |
 
-### **Data Sources**:
+### **Data Sources**
 - **TMY Data**: Hourly temperature and humidity data from the TMY file for a selected location. This data will span the entire year and be used to calculate heating and cooling energy consumption using WBT and dry-bulb temperature.
 - **Building Information**: JSON file will contain the building type, square footage, insulation factor, and heating/cooling conversion factors
 
-### **Project Requirements**:
-1. **Data Collection**:
+### **Project Requirements**
+1. **Data Collection**
    - Use the [NSRDB Viewer](https://nsrdb.nrel.gov/data-viewer) to find a location (USA only) you are interested in
    - Choose option for "USA & Americas - Typical Meteorological Year"
    - **Select Attributes**: Check off the "Temperature" and "Relative Humidity" attributes (and any others you are interested in)
@@ -62,19 +62,16 @@ The **conversion factors** are assigned differently for **heating** and **coolin
    - Check the box to "Convert UTC to Local Time"
    - Input your email and click the "Download" button
   
-2. **Energy Prediction Model**:
+2. **Energy Prediction Model**
    - Calculate **WBT** for cooling energy using the hourly **temperature** and **humidity** values from the TMY data.
    - For heating, you will use the **dry-bulb temperature** (provided in the TMY file)
    - Estimate the Heating, Cooling, and Total energy consumption for each hour in the TMY file, applying the appropriate factors based on the building characteristics:
-     - **Heating Energy** = $ \sum \text{Dry-Bulb Temperature} \times \text{Building Area} \times \text{Insulation Factor} \times \text{Heating Conversion Factor} $
-     - **Cooling Energy** = $ \sum \text{WBT} \times \text{Building Area} \times \text{Insulation Factor} \times \text{Cooling Conversion Factor} $
-     - **Total Energy** = $ \text{Heating Energy} + \text{Cooling Energy} $
 
-3. **Analysis**:
+3. **Analysis**
    - Calculate **annual energy consumption** for heating, cooling, and total for each building.
    - Compare the total energy consumption for **different building types** (e.g., residential, commercial, and industrial).
    - Explore how **insulation quality** and **building type** affect energy consumption, particularly for buildings with poor versus good insulation.
 
-4. **Visualization**:
-   - Create a line plot for each building (3) to compare the **predicted energy consumption** for each building over the course of the year. Each plot should have the heating, cooling, and total energy consumption as separate lines. 
-   - Visualize (3) and compare the heating, cooling, and total energy requirements for each building type. You should create a line plot for each comparison: heating, cooling, and total.
+4. **Visualization**
+   - Create a line plot for each building (3 plots) to compare the **predicted energy consumption** for each building over the course of the year. Each plot should have the heating, cooling, and total energy consumption as separate lines. 
+   - Visualize and compare the heating, cooling, and total energy requirements for each building type. You should create a line plot for each comparison (3 plots): heating, cooling, and total.
