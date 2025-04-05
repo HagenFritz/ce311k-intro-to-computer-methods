@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Industrial",
+      "area": 15000,
+      "insulation_factor": 0.8,
+      "heating_conversion_factor": 0.015,
+      "cooling_conversion_factor": 0.018
+    },
+    {
+      "name": "Residential",
+      "area": 2000,
+      "insulation_factor": 1.2,
+      "heating_conversion_factor": 0.026,
+      "cooling_conversion_factor": 0.022
+    },
+    {
+      "name": "Commercial",
+      "area": 10000,
+      "insulation_factor": 1.0,
+      "heating_conversion_factor": 0.024,
+      "cooling_conversion_factor": 0.028
+    }
+  ]

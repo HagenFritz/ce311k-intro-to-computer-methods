@@ -6,6 +6,8 @@ Energy consumption in buildings is influenced by weather conditions, building de
 ### **Objective**
 Students will use hourly TMY data for a location of their choosing to predict the annual heating and cooling energy requirements for three buildings. They will calculate the **heating** and **cooling** demands over the entire year using **Wet-Bulb Temperature (WBT)** for cooling and dry-bulb temperature for heating, applying specific **conversion factors** for each. The students will then compare the energy consumption across three building types with varying insulation levels.
 
+### **Project Definitions**
+
 #### **Wet-Bulb Temperature Calculation**
 The **Wet-Bulb Temperature (WBT)** can be calculated using the following approximation:
 
