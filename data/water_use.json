@@ -1,279 +1,2210 @@
 [
-    {"building": "ECJ", "usage_liters": 15200, "occupants": 170, "day_type": "Weekday", "month": "March", "date": "2024-03-01"},
-    {"building": "EER", "usage_liters": 14000, "occupants": 150, "day_type": "Weekday", "month": "March", "date": "2024-03-01"},
-    {"building": "CPE", "usage_liters": 17200, "occupants": 185, "day_type": "Weekday", "month": "March", "date": "2024-03-01"},
-    {"building": "ECJ", "usage_liters": 14800, "occupants": 165, "day_type": "Weekend", "month": "March", "date": "2024-03-02"},
-    {"building": "EER", "usage_liters": 13500, "occupants": 145, "day_type": "Weekend", "month": "March", "date": "2024-03-02"},
-    {"building": "CPE", "usage_liters": 16600, "occupants": 180, "day_type": "Weekend", "month": "March", "date": "2024-03-02"},
-    {"building": "ECJ", "usage_liters": 14500, "occupants": 160, "day_type": "Weekend", "month": "March", "date": "2024-03-03"},
-    {"building": "EER", "usage_liters": 13200, "occupants": 140, "day_type": "Weekend", "month": "March", "date": "2024-03-03"},
-    {"building": "CPE", "usage_liters": 16400, "occupants": 175, "day_type": "Weekend", "month": "March", "date": "2024-03-03"},
-    {"building": "ECJ", "usage_liters": 15300, "occupants": 172, "day_type": "Weekday", "month": "March", "date": "2024-03-04"},
-    {"building": "EER", "usage_liters": 14100, "occupants": 152, "day_type": "Weekday", "month": "March", "date": "2024-03-04"},
-    {"building": "CPE", "usage_liters": 17300, "occupants": 187, "day_type": "Weekday", "month": "March", "date": "2024-03-04"},
-    {"building": "ECJ", "usage_liters": 15400, "occupants": 173, "day_type": "Weekday", "month": "March", "date": "2024-03-05"},
-    {"building": "EER", "usage_liters": 14200, "occupants": 153, "day_type": "Weekday", "month": "March", "date": "2024-03-05"},
-    {"building": "CPE", "usage_liters": 17400, "occupants": 188, "day_type": "Weekday", "month": "March", "date": "2024-03-05"},
-    {"building": "ECJ", "usage_liters": 15350, "occupants": 172, "day_type": "Weekday", "month": "March", "date": "2024-03-06"},
-    {"building": "EER", "usage_liters": 14150, "occupants": 152, "day_type": "Weekday", "month": "March", "date": "2024-03-06"},
-    {"building": "CPE", "usage_liters": 17350, "occupants": 187, "day_type": "Weekday", "month": "March", "date": "2024-03-06"},
-    {"building": "ECJ", "usage_liters": 15250, "occupants": 171, "day_type": "Weekday", "month": "March", "date": "2024-03-07"},
-    {"building": "EER", "usage_liters": 14050, "occupants": 151, "day_type": "Weekday", "month": "March", "date": "2024-03-07"},
-    {"building": "CPE", "usage_liters": 17250, "occupants": 186, "day_type": "Weekday", "month": "March", "date": "2024-03-07"},
-    {"building": "ECJ", "usage_liters": 15200, "occupants": 170, "day_type": "Weekday", "month": "March", "date": "2024-03-08"},
-    {"building": "EER", "usage_liters": 14000, "occupants": 150, "day_type": "Weekday", "month": "March", "date": "2024-03-08"},
-    {"building": "CPE", "usage_liters": 17200, "occupants": 185, "day_type": "Weekday", "month": "March", "date": "2024-03-08"},
-    {"building": "ECJ", "usage_liters": 14800, "occupants": 165, "day_type": "Weekend", "month": "March", "date": "2024-03-09"},
-    {"building": "EER", "usage_liters": 13500, "occupants": 145, "day_type": "Weekend", "month": "March", "date": "2024-03-09"},
-    {"building": "CPE", "usage_liters": 16600, "occupants": 180, "day_type": "Weekend", "month": "March", "date": "2024-03-09"},
-    {"building": "ECJ", "usage_liters": 14500, "occupants": 160, "day_type": "Weekend", "month": "March", "date": "2024-03-10"},
-    {"building": "EER", "usage_liters": 13200, "occupants": 140, "day_type": "Weekend", "month": "March", "date": "2024-03-10"},
-    {"building": "CPE", "usage_liters": 16400, "occupants": 175, "day_type": "Weekend", "month": "March", "date": "2024-03-10"},
-    {"building": "ECJ", "usage_liters": 15300, "occupants": 172, "day_type": "Weekday", "month": "March", "date": "2024-03-11"},
-    {"building": "EER", "usage_liters": 14100, "occupants": 152, "day_type": "Weekday", "month": "March", "date": "2024-03-11"},
-    {"building": "CPE", "usage_liters": 17300, "occupants": 187, "day_type": "Weekday", "month": "March", "date": "2024-03-11"},
-    {"building": "ECJ", "usage_liters": 15400, "occupants": 173, "day_type": "Weekday", "month": "March", "date": "2024-03-12"},
-    {"building": "EER", "usage_liters": 14200, "occupants": 153, "day_type": "Weekday", "month": "March", "date": "2024-03-12"},
-    {"building": "CPE", "usage_liters": 17400, "occupants": 188, "day_type": "Weekday", "month": "March", "date": "2024-03-12"},
-    {"building": "ECJ", "usage_liters": 15350, "occupants": 172, "day_type": "Weekday", "month": "March", "date": "2024-03-13"},
-    {"building": "EER", "usage_liters": 14150, "occupants": 152, "day_type": "Weekday", "month": "March", "date": "2024-03-13"},
-    {"building": "CPE", "usage_liters": 17350, "occupants": 187, "day_type": "Weekday", "month": "March", "date": "2024-03-13"},
-    {"building": "ECJ", "usage_liters": 15250, "occupants": 171, "day_type": "Weekday", "month": "March", "date": "2024-03-14"},
-    {"building": "EER", "usage_liters": 14050, "occupants": 151, "day_type": "Weekday", "month": "March", "date": "2024-03-14"},
-    {"building": "CPE", "usage_liters": 17250, "occupants": 186, "day_type": "Weekday", "month": "March", "date": "2024-03-14"},
-    {"building": "ECJ", "usage_liters": 15200, "occupants": 170, "day_type": "Weekday", "month": "March", "date": "2024-03-15"},
-    {"building": "EER", "usage_liters": 14000, "occupants": 150, "day_type": "Weekday", "month": "March", "date": "2024-03-15"},
-    {"building": "CPE", "usage_liters": 17200, "occupants": 185, "day_type": "Weekday", "month": "March", "date": "2024-03-15"},
-    {"building": "ECJ", "usage_liters": 14800, "occupants": 165, "day_type": "Weekend", "month": "March", "date": "2024-03-16"},
-    {"building": "EER", "usage_liters": 13500, "occupants": 145, "day_type": "Weekend", "month": "March", "date": "2024-03-16"},
-    {"building": "CPE", "usage_liters": 16600, "occupants": 180, "day_type": "Weekend", "month": "March", "date": "2024-03-16"},
-    {"building": "ECJ", "usage_liters": 14500, "occupants": 160, "day_type": "Weekend", "month": "March", "date": "2024-03-17"},
-    {"building": "EER", "usage_liters": 13200, "occupants": 140, "day_type": "Weekend", "month": "March", "date": "2024-03-17"},
-    {"building": "CPE", "usage_liters": 16400, "occupants": 175, "day_type": "Weekend", "month": "March", "date": "2024-03-17"},
-    {"building": "ECJ", "usage_liters": 15300, "occupants": 172, "day_type": "Weekday", "month": "March", "date": "2024-03-18"},
-    {"building": "EER", "usage_liters": 14100, "occupants": 152, "day_type": "Weekday", "month": "March", "date": "2024-03-18"},
-    {"building": "CPE", "usage_liters": 17300, "occupants": 187, "day_type": "Weekday", "month": "March", "date": "2024-03-18"},
-    {"building": "ECJ", "usage_liters": 15400, "occupants": 173, "day_type": "Weekday", "month": "March", "date": "2024-03-19"},
-    {"building": "EER", "usage_liters": 14200, "occupants": 153, "day_type": "Weekday", "month": "March", "date": "2024-03-19"},
-    {"building": "CPE", "usage_liters": 17400, "occupants": 188, "day_type": "Weekday", "month": "March", "date": "2024-03-19"},
-    {"building": "ECJ", "usage_liters": 15350, "occupants": 172, "day_type": "Weekday", "month": "March", "date": "2024-03-20"},
-    {"building": "EER", "usage_liters": 14150, "occupants": 152, "day_type": "Weekday", "month": "March", "date": "2024-03-20"},
-    {"building": "CPE", "usage_liters": 17350, "occupants": 187, "day_type": "Weekday", "month": "March", "date": "2024-03-20"},
-    {"building": "ECJ", "usage_liters": 15250, "occupants": 171, "day_type": "Weekday", "month": "March", "date": "2024-03-21"},
-    {"building": "EER", "usage_liters": 14050, "occupants": 151, "day_type": "Weekday", "month": "March", "date": "2024-03-21"},
-    {"building": "CPE", "usage_liters": 17250, "occupants": 186, "day_type": "Weekday", "month": "March", "date": "2024-03-21"},
-    {"building": "ECJ", "usage_liters": 15200, "occupants": 170, "day_type": "Weekday", "month": "March", "date": "2024-03-22"},
-    {"building": "EER", "usage_liters": 14000, "occupants": 150, "day_type": "Weekday", "month": "March", "date": "2024-03-22"},
-    {"building": "CPE", "usage_liters": 17200, "occupants": 185, "day_type": "Weekday", "month": "March", "date": "2024-03-22"},
-    {"building": "ECJ", "usage_liters": 14800, "occupants": 165, "day_type": "Weekend", "month": "March", "date": "2024-03-23"},
-    {"building": "EER", "usage_liters": 13500, "occupants": 145, "day_type": "Weekend", "month": "March", "date": "2024-03-23"},
-    {"building": "CPE", "usage_liters": 16600, "occupants": 180, "day_type": "Weekend", "month": "March", "date": "2024-03-23"},
-    {"building": "ECJ", "usage_liters": 14500, "occupants": 160, "day_type": "Weekend", "month": "March", "date": "2024-03-24"},
-    {"building": "EER", "usage_liters": 13200, "occupants": 140, "day_type": "Weekend", "month": "March", "date": "2024-03-24"},
-    {"building": "CPE", "usage_liters": 16400, "occupants": 175, "day_type": "Weekend", "month": "March", "date": "2024-03-24"},
-    {"building": "ECJ", "usage_liters": 15300, "occupants": 172, "day_type": "Weekday", "month": "March", "date": "2024-03-25"},
-    {"building": "EER", "usage_liters": 14100, "occupants": 152, "day_type": "Weekday", "month": "March", "date": "2024-03-25"},
-    {"building": "CPE", "usage_liters": 17300, "occupants": 187, "day_type": "Weekday", "month": "March", "date": "2024-03-25"},
-    {"building": "ECJ", "usage_liters": 15400, "occupants": 173, "day_type": "Weekday", "month": "March", "date": "2024-03-26"},
-    {"building": "EER", "usage_liters": 14200, "occupants": 153, "day_type": "Weekday", "month": "March", "date": "2024-03-26"},
-    {"building": "CPE", "usage_liters": 17400, "occupants": 188, "day_type": "Weekday", "month": "March", "date": "2024-03-26"},
-    {"building": "ECJ", "usage_liters": 15350, "occupants": 172, "day_type": "Weekday", "month": "March", "date": "2024-03-27"},
-    {"building": "EER", "usage_liters": 14150, "occupants": 152, "day_type": "Weekday", "month": "March", "date": "2024-03-27"},
-    {"building": "CPE", "usage_liters": 17350, "occupants": 187, "day_type": "Weekday", "month": "March", "date": "2024-03-27"},
-    {"building": "ECJ", "usage_liters": 15250, "occupants": 171, "day_type": "Weekday", "month": "March", "date": "2024-03-28"},
-    {"building": "EER", "usage_liters": 14050, "occupants": 151, "day_type": "Weekday", "month": "March", "date": "2024-03-28"},
-    {"building": "CPE", "usage_liters": 17250, "occupants": 186, "day_type": "Weekday", "month": "March", "date": "2024-03-28"},
-    {"building": "ECJ", "usage_liters": 15200, "occupants": 170, "day_type": "Weekday", "month": "March", "date": "2024-03-29"},
-    {"building": "EER", "usage_liters": 14000, "occupants": 150, "day_type": "Weekday", "month": "March", "date": "2024-03-29"},
-    {"building": "CPE", "usage_liters": 17200, "occupants": 185, "day_type": "Weekday", "month": "March", "date": "2024-03-29"},
-    {"building": "ECJ", "usage_liters": 14800, "occupants": 165, "day_type": "Weekend", "month": "March", "date": "2024-03-30"},
-    {"building": "EER", "usage_liters": 13500, "occupants": 145, "day_type": "Weekend", "month": "March", "date": "2024-03-30"},
-    {"building": "CPE", "usage_liters": 16600, "occupants": 180, "day_type": "Weekend", "month": "March", "date": "2024-03-30"},
-    {"building": "ECJ", "usage_liters": 14500, "occupants": 160, "day_type": "Weekend", "month": "March", "date": "2024-03-31"},
-    {"building": "EER", "usage_liters": 13200, "occupants": 140, "day_type": "Weekend", "month": "March", "date": "2024-03-31"},
-    {"building": "CPE", "usage_liters": 16400, "occupants": 175, "day_type": "Weekend", "month": "March", "date": "2024-03-31"},
-    
-    {"building": "ECJ", "usage_liters": 16200, "occupants": 175, "day_type": "Weekday", "month": "April", "date": "2024-04-01"},
-    {"building": "EER", "usage_liters": 15000, "occupants": 155, "day_type": "Weekday", "month": "April", "date": "2024-04-01"},
-    {"building": "CPE", "usage_liters": 18200, "occupants": 190, "day_type": "Weekday", "month": "April", "date": "2024-04-01"},
-    {"building": "ECJ", "usage_liters": 16300, "occupants": 176, "day_type": "Weekday", "month": "April", "date": "2024-04-02"},
-    {"building": "EER", "usage_liters": 15100, "occupants": 156, "day_type": "Weekday", "month": "April", "date": "2024-04-02"},
-    {"building": "CPE", "usage_liters": 18300, "occupants": 191, "day_type": "Weekday", "month": "April", "date": "2024-04-02"},
-    {"building": "ECJ", "usage_liters": 16250, "occupants": 175, "day_type": "Weekday", "month": "April", "date": "2024-04-03"},
-    {"building": "EER", "usage_liters": 15050, "occupants": 155, "day_type": "Weekday", "month": "April", "date": "2024-04-03"},
-    {"building": "CPE", "usage_liters": 18250, "occupants": 190, "day_type": "Weekday", "month": "April", "date": "2024-04-03"},
-    {"building": "ECJ", "usage_liters": 16150, "occupants": 174, "day_type": "Weekday", "month": "April", "date": "2024-04-04"},
-    {"building": "EER", "usage_liters": 14950, "occupants": 154, "day_type": "Weekday", "month": "April", "date": "2024-04-04"},
-    {"building": "CPE", "usage_liters": 18150, "occupants": 189, "day_type": "Weekday", "month": "April", "date": "2024-04-04"},
-    {"building": "ECJ", "usage_liters": 16100, "occupants": 173, "day_type": "Weekday", "month": "April", "date": "2024-04-05"},
-    {"building": "EER", "usage_liters": 14900, "occupants": 153, "day_type": "Weekday", "month": "April", "date": "2024-04-05"},
-    {"building": "CPE", "usage_liters": 18100, "occupants": 188, "day_type": "Weekday", "month": "April", "date": "2024-04-05"},
-    {"building": "ECJ", "usage_liters": 15700, "occupants": 168, "day_type": "Weekend", "month": "April", "date": "2024-04-06"},
-    {"building": "EER", "usage_liters": 14400, "occupants": 148, "day_type": "Weekend", "month": "April", "date": "2024-04-06"},
-    {"building": "CPE", "usage_liters": 17500, "occupants": 183, "day_type": "Weekend", "month": "April", "date": "2024-04-06"},
-    {"building": "ECJ", "usage_liters": 15400, "occupants": 165, "day_type": "Weekend", "month": "April", "date": "2024-04-07"},
-    {"building": "EER", "usage_liters": 14100, "occupants": 145, "day_type": "Weekend", "month": "April", "date": "2024-04-07"},
-    {"building": "CPE", "usage_liters": 17300, "occupants": 180, "day_type": "Weekend", "month": "April", "date": "2024-04-07"},
-    {"building": "ECJ", "usage_liters": 16200, "occupants": 175, "day_type": "Weekday", "month": "April", "date": "2024-04-08"},
-    {"building": "EER", "usage_liters": 15000, "occupants": 155, "day_type": "Weekday", "month": "April", "date": "2024-04-08"},
-    {"building": "CPE", "usage_liters": 18200, "occupants": 190, "day_type": "Weekday", "month": "April", "date": "2024-04-08"},
-    {"building": "ECJ", "usage_liters": 16300, "occupants": 176, "day_type": "Weekday", "month": "April", "date": "2024-04-09"},
-    {"building": "EER", "usage_liters": 15100, "occupants": 156, "day_type": "Weekday", "month": "April", "date": "2024-04-09"},
-    {"building": "CPE", "usage_liters": 18300, "occupants": 191, "day_type": "Weekday", "month": "April", "date": "2024-04-09"},
-    {"building": "ECJ", "usage_liters": 16250, "occupants": 175, "day_type": "Weekday", "month": "April", "date": "2024-04-10"},
-    {"building": "EER", "usage_liters": 15050, "occupants": 155, "day_type": "Weekday", "month": "April", "date": "2024-04-10"},
-    {"building": "CPE", "usage_liters": 18250, "occupants": 190, "day_type": "Weekday", "month": "April", "date": "2024-04-10"},
-    {"building": "ECJ", "usage_liters": 16200, "occupants": 175, "day_type": "Weekday", "month": "April", "date": "2024-04-11"},
-    {"building": "EER", "usage_liters": 15000, "occupants": 155, "day_type": "Weekday", "month": "April", "date": "2024-04-11"},
-    {"building": "CPE", "usage_liters": 18200, "occupants": 190, "day_type": "Weekday", "month": "April", "date": "2024-04-11"},
-    {"building": "ECJ", "usage_liters": 16300, "occupants": 176, "day_type": "Weekday", "month": "April", "date": "2024-04-12"},
-    {"building": "EER", "usage_liters": 15100, "occupants": 156, "day_type": "Weekday", "month": "April", "date": "2024-04-12"},
-    {"building": "CPE", "usage_liters": 18300, "occupants": 191, "day_type": "Weekday", "month": "April", "date": "2024-04-12"},
-    {"building": "ECJ", "usage_liters": 16250, "occupants": 175, "day_type": "Weekday", "month": "April", "date": "2024-04-13"},
-    {"building": "EER", "usage_liters": 15050, "occupants": 155, "day_type": "Weekday", "month": "April", "date": "2024-04-13"},
-    {"building": "CPE", "usage_liters": 18250, "occupants": 190, "day_type": "Weekday", "month": "April", "date": "2024-04-13"},
-    {"building": "ECJ", "usage_liters": 16150, "occupants": 174, "day_type": "Weekday", "month": "April", "date": "2024-04-14"},
-    {"building": "EER", "usage_liters": 14950, "occupants": 154, "day_type": "Weekday", "month": "April", "date": "2024-04-14"},
-    {"building": "CPE", "usage_liters": 18150, "occupants": 189, "day_type": "Weekday", "month": "April", "date": "2024-04-14"},
-    {"building": "ECJ", "usage_liters": 16100, "occupants": 173, "day_type": "Weekday", "month": "April", "date": "2024-04-15"},
-    {"building": "EER", "usage_liters": 14900, "occupants": 153, "day_type": "Weekday", "month": "April", "date": "2024-04-15"},
-    {"building": "CPE", "usage_liters": 18100, "occupants": 188, "day_type": "Weekday", "month": "April", "date": "2024-04-15"},
-    {"building": "ECJ", "usage_liters": 15700, "occupants": 168, "day_type": "Weekend", "month": "April", "date": "2024-04-16"},
-    {"building": "EER", "usage_liters": 14400, "occupants": 148, "day_type": "Weekend", "month": "April", "date": "2024-04-16"},
-    {"building": "CPE", "usage_liters": 17500, "occupants": 183, "day_type": "Weekend", "month": "April", "date": "2024-04-16"},
-    {"building": "ECJ", "usage_liters": 15400, "occupants": 165, "day_type": "Weekend", "month": "April", "date": "2024-04-17"},
-    {"building": "EER", "usage_liters": 14100, "occupants": 145, "day_type": "Weekend", "month": "April", "date": "2024-04-17"},
-    {"building": "CPE", "usage_liters": 17300, "occupants": 180, "day_type": "Weekend", "month": "April", "date": "2024-04-17"},
-    {"building": "ECJ", "usage_liters": 16200, "occupants": 175, "day_type": "Weekday", "month": "April", "date": "2024-04-18"},
-    {"building": "EER", "usage_liters": 15000, "occupants": 155, "day_type": "Weekday", "month": "April", "date": "2024-04-18"},
-    {"building": "CPE", "usage_liters": 18200, "occupants": 190, "day_type": "Weekday", "month": "April", "date": "2024-04-18"},
-    {"building": "ECJ", "usage_liters": 16300, "occupants": 176, "day_type": "Weekday", "month": "April", "date": "2024-04-19"},
-    {"building": "EER", "usage_liters": 15100, "occupants": 156, "day_type": "Weekday", "month": "April", "date": "2024-04-19"},
-    {"building": "CPE", "usage_liters": 18300, "occupants": 191, "day_type": "Weekday", "month": "April", "date": "2024-04-19"},
-    {"building": "ECJ", "usage_liters": 16250, "occupants": 175, "day_type": "Weekday", "month": "April", "date": "2024-04-20"},
-    {"building": "EER", "usage_liters": 15050, "occupants": 155, "day_type": "Weekday", "month": "April", "date": "2024-04-20"},
-    {"building": "CPE", "usage_liters": 18250, "occupants": 190, "day_type": "Weekday", "month": "April", "date": "2024-04-20"},
-    {"building": "ECJ", "usage_liters": 16150, "occupants": 174, "day_type": "Weekday", "month": "April", "date": "2024-04-21"},
-    {"building": "EER", "usage_liters": 14950, "occupants": 154, "day_type": "Weekday", "month": "April", "date": "2024-04-21"},
-    {"building": "CPE", "usage_liters": 18150, "occupants": 189, "day_type": "Weekday", "month": "April", "date": "2024-04-21"},
-    {"building": "ECJ", "usage_liters": 16100, "occupants": 173, "day_type": "Weekday", "month": "April", "date": "2024-04-22"},
-    {"building": "EER", "usage_liters": 14900, "occupants": 153, "day_type": "Weekday", "month": "April", "date": "2024-04-22"},
-    {"building": "CPE", "usage_liters": 18100, "occupants": 188, "day_type": "Weekday", "month": "April", "date": "2024-04-22"},
-    {"building": "ECJ", "usage_liters": 15700, "occupants": 168, "day_type": "Weekend", "month": "April", "date": "2024-04-23"},
-    {"building": "EER", "usage_liters": 14400, "occupants": 148, "day_type": "Weekend", "month": "April", "date": "2024-04-23"},
-    {"building": "CPE", "usage_liters": 17500, "occupants": 183, "day_type": "Weekend", "month": "April", "date": "2024-04-23"},
-    {"building": "ECJ", "usage_liters": 15400, "occupants": 165, "day_type": "Weekend", "month": "April", "date": "2024-04-24"},
-    {"building": "EER", "usage_liters": 14100, "occupants": 145, "day_type": "Weekend", "month": "April", "date": "2024-04-24"},
-    {"building": "CPE", "usage_liters": 17300, "occupants": 180, "day_type": "Weekend", "month": "April", "date": "2024-04-24"},
-    {"building": "ECJ", "usage_liters": 16200, "occupants": 175, "day_type": "Weekday", "month": "April", "date": "2024-04-25"},
-    {"building": "EER", "usage_liters": 15000, "occupants": 155, "day_type": "Weekday", "month": "April", "date": "2024-04-25"},
-    {"building": "CPE", "usage_liters": 18200, "occupants": 190, "day_type": "Weekday", "month": "April", "date": "2024-04-25"},
-    {"building": "ECJ", "usage_liters": 16300, "occupants": 176, "day_type": "Weekday", "month": "April", "date": "2024-04-26"},
-    {"building": "EER", "usage_liters": 15100, "occupants": 156, "day_type": "Weekday", "month": "April", "date": "2024-04-26"},
-    {"building": "CPE", "usage_liters": 18300, "occupants": 191, "day_type": "Weekday", "month": "April", "date": "2024-04-26"},
-    {"building": "ECJ", "usage_liters": 16250, "occupants": 175, "day_type": "Weekday", "month": "April", "date": "2024-04-27"},
-    {"building": "EER", "usage_liters": 15050, "occupants": 155, "day_type": "Weekday", "month": "April", "date": "2024-04-27"},
-    {"building": "CPE", "usage_liters": 18250, "occupants": 190, "day_type": "Weekday", "month": "April", "date": "2024-04-27"},
-    {"building": "ECJ", "usage_liters": 16150, "occupants": 174, "day_type": "Weekday", "month": "April", "date": "2024-04-28"},
-    {"building": "EER", "usage_liters": 14950, "occupants": 154, "day_type": "Weekday", "month": "April", "date": "2024-04-28"},
-    {"building": "CPE", "usage_liters": 18150, "occupants": 189, "day_type": "Weekday", "month": "April", "date": "2024-04-28"},
-    {"building": "ECJ", "usage_liters": 16100, "occupants": 173, "day_type": "Weekday", "month": "April", "date": "2024-04-29"},
-    {"building": "EER", "usage_liters": 14900, "occupants": 153, "day_type": "Weekday", "month": "April", "date": "2024-04-29"},
-    {"building": "CPE", "usage_liters": 18100, "occupants": 188, "day_type": "Weekday", "month": "April", "date": "2024-04-29"},
-    {"building": "ECJ", "usage_liters": 15700, "occupants": 168, "day_type": "Weekend", "month": "April", "date": "2024-04-30"},
-    {"building": "EER", "usage_liters": 14400, "occupants": 148, "day_type": "Weekend", "month": "April", "date": "2024-04-30"},
-    {"building": "CPE", "usage_liters": 17500, "occupants": 183, "day_type": "Weekend", "month": "April", "date": "2024-04-30"},
-    {"building": "ECJ", "usage_liters": 16500, "occupants": 175, "day_type": "Weekday", "month": "May", "date": "2024-05-01"},
-    {"building": "EER", "usage_liters": 15300, "occupants": 155, "day_type": "Weekday", "month": "May", "date": "2024-05-01"},
-    {"building": "CPE", "usage_liters": 18500, "occupants": 190, "day_type": "Weekday", "month": "May", "date": "2024-05-01"},
-    {"building": "ECJ", "usage_liters": 16600, "occupants": 176, "day_type": "Weekday", "month": "May", "date": "2024-05-02"},
-    {"building": "EER", "usage_liters": 15400, "occupants": 156, "day_type": "Weekday", "month": "May", "date": "2024-05-02"},
-    {"building": "CPE", "usage_liters": 18600, "occupants": 191, "day_type": "Weekday", "month": "May", "date": "2024-05-02"},
-    {"building": "ECJ", "usage_liters": 16550, "occupants": 175, "day_type": "Weekday", "month": "May", "date": "2024-05-03"},
-    {"building": "EER", "usage_liters": 15350, "occupants": 155, "day_type": "Weekday", "month": "May", "date": "2024-05-03"},
-    {"building": "CPE", "usage_liters": 18550, "occupants": 190, "day_type": "Weekday", "month": "May", "date": "2024-05-03"},
-    {"building": "ECJ", "usage_liters": 16450, "occupants": 174, "day_type": "Weekday", "month": "May", "date": "2024-05-04"},
-    {"building": "EER", "usage_liters": 15250, "occupants": 154, "day_type": "Weekday", "month": "May", "date": "2024-05-04"},
-    {"building": "CPE", "usage_liters": 18450, "occupants": 189, "day_type": "Weekday", "month": "May", "date": "2024-05-04"},
-    {"building": "ECJ", "usage_liters": 16400, "occupants": 173, "day_type": "Weekday", "month": "May", "date": "2024-05-05"},
-    {"building": "EER", "usage_liters": 15200, "occupants": 153, "day_type": "Weekday", "month": "May", "date": "2024-05-05"},
-    {"building": "CPE", "usage_liters": 18400, "occupants": 188, "day_type": "Weekday", "month": "May", "date": "2024-05-05"},
-    {"building": "ECJ", "usage_liters": 16000, "occupants": 168, "day_type": "Weekend", "month": "May", "date": "2024-05-06"},
-    {"building": "EER", "usage_liters": 14700, "occupants": 148, "day_type": "Weekend", "month": "May", "date": "2024-05-06"},
-    {"building": "CPE", "usage_liters": 17800, "occupants": 183, "day_type": "Weekend", "month": "May", "date": "2024-05-06"},
-    {"building": "ECJ", "usage_liters": 15700, "occupants": 165, "day_type": "Weekend", "month": "May", "date": "2024-05-07"},
-    {"building": "EER", "usage_liters": 14400, "occupants": 145, "day_type": "Weekend", "month": "May", "date": "2024-05-07"},
-    {"building": "CPE", "usage_liters": 17600, "occupants": 180, "day_type": "Weekend", "month": "May", "date": "2024-05-07"},
-    {"building": "ECJ", "usage_liters": 16500, "occupants": 175, "day_type": "Weekday", "month": "May", "date": "2024-05-08"},
-    {"building": "EER", "usage_liters": 15300, "occupants": 155, "day_type": "Weekday", "month": "May", "date": "2024-05-08"},
-    {"building": "CPE", "usage_liters": 18500, "occupants": 190, "day_type": "Weekday", "month": "May", "date": "2024-05-08"},
-    {"building": "ECJ", "usage_liters": 16600, "occupants": 176, "day_type": "Weekday", "month": "May", "date": "2024-05-09"},
-    {"building": "EER", "usage_liters": 15400, "occupants": 156, "day_type": "Weekday", "month": "May", "date": "2024-05-09"},
-    {"building": "CPE", "usage_liters": 18600, "occupants": 191, "day_type": "Weekday", "month": "May", "date": "2024-05-09"},
-    {"building": "ECJ", "usage_liters": 16550, "occupants": 175, "day_type": "Weekday", "month": "May", "date": "2024-05-10"},
-    {"building": "EER", "usage_liters": 15350, "occupants": 155, "day_type": "Weekday", "month": "May", "date": "2024-05-10"},
-    {"building": "CPE", "usage_liters": 18550, "occupants": 190, "day_type": "Weekday", "month": "May", "date": "2024-05-10"},
-    {"building": "ECJ", "usage_liters": 16450, "occupants": 174, "day_type": "Weekday", "month": "May", "date": "2024-05-11"},
-    {"building": "EER", "usage_liters": 15250, "occupants": 154, "day_type": "Weekday", "month": "May", "date": "2024-05-11"},
-    {"building": "CPE", "usage_liters": 18450, "occupants": 189, "day_type": "Weekday", "month": "May", "date": "2024-05-11"},
-    {"building": "ECJ", "usage_liters": 16400, "occupants": 173, "day_type": "Weekday", "month": "May", "date": "2024-05-12"},
-    {"building": "EER", "usage_liters": 15200, "occupants": 153, "day_type": "Weekday", "month": "May", "date": "2024-05-12"},
-    {"building": "CPE", "usage_liters": 18400, "occupants": 188, "day_type": "Weekday", "month": "May", "date": "2024-05-12"},
-    {"building": "ECJ", "usage_liters": 16000, "occupants": 168, "day_type": "Weekend", "month": "May", "date": "2024-05-13"},
-    {"building": "EER", "usage_liters": 14700, "occupants": 148, "day_type": "Weekend", "month": "May", "date": "2024-05-13"},
-    {"building": "CPE", "usage_liters": 17800, "occupants": 183, "day_type": "Weekend", "month": "May", "date": "2024-05-13"},
-    {"building": "ECJ", "usage_liters": 15700, "occupants": 165, "day_type": "Weekend", "month": "May", "date": "2024-05-14"},
-    {"building": "EER", "usage_liters": 14400, "occupants": 145, "day_type": "Weekend", "month": "May", "date": "2024-05-14"},
-    {"building": "CPE", "usage_liters": 17600, "occupants": 180, "day_type": "Weekend", "month": "May", "date": "2024-05-14"},
-    {"building": "ECJ", "usage_liters": 16500, "occupants": 175, "day_type": "Weekday", "month": "May", "date": "2024-05-15"},
-    {"building": "EER", "usage_liters": 15300, "occupants": 155, "day_type": "Weekday", "month": "May", "date": "2024-05-15"},
-    {"building": "CPE", "usage_liters": 18500, "occupants": 190, "day_type": "Weekday", "month": "May", "date": "2024-05-15"},
-    {"building": "ECJ", "usage_liters": 16600, "occupants": 176, "day_type": "Weekday", "month": "May", "date": "2024-05-16"},
-    {"building": "EER", "usage_liters": 15400, "occupants": 156, "day_type": "Weekday", "month": "May", "date": "2024-05-16"},
-    {"building": "CPE", "usage_liters": 18600, "occupants": 191, "day_type": "Weekday", "month": "May", "date": "2024-05-16"},
-    {"building": "ECJ", "usage_liters": 16550, "occupants": 175, "day_type": "Weekday", "month": "May", "date": "2024-05-17"},
-    {"building": "EER", "usage_liters": 15350, "occupants": 155, "day_type": "Weekday", "month": "May", "date": "2024-05-17"},
-    {"building": "CPE", "usage_liters": 18550, "occupants": 190, "day_type": "Weekday", "month": "May", "date": "2024-05-17"},
-    {"building": "ECJ", "usage_liters": 16450, "occupants": 174, "day_type": "Weekday", "month": "May", "date": "2024-05-18"},
-    {"building": "EER", "usage_liters": 15250, "occupants": 154, "day_type": "Weekday", "month": "May", "date": "2024-05-18"},
-    {"building": "CPE", "usage_liters": 18450, "occupants": 189, "day_type": "Weekday", "month": "May", "date": "2024-05-18"},
-    {"building": "ECJ", "usage_liters": 16400, "occupants": 173, "day_type": "Weekday", "month": "May", "date": "2024-05-19"},
-    {"building": "EER", "usage_liters": 15200, "occupants": 153, "day_type": "Weekday", "month": "May", "date": "2024-05-19"},
-    {"building": "CPE", "usage_liters": 18400, "occupants": 188, "day_type": "Weekday", "month": "May", "date": "2024-05-19"},
-    {"building": "ECJ", "usage_liters": 16000, "occupants": 168, "day_type": "Weekend", "month": "May", "date": "2024-05-20"},
-    {"building": "EER", "usage_liters": 14700, "occupants": 148, "day_type": "Weekend", "month": "May", "date": "2024-05-20"},
-    {"building": "CPE", "usage_liters": 17800, "occupants": 183, "day_type": "Weekend", "month": "May", "date": "2024-05-20"},
-    {"building": "ECJ", "usage_liters": 15700, "occupants": 165, "day_type": "Weekend", "month": "May", "date": "2024-05-21"},
-    {"building": "EER", "usage_liters": 14400, "occupants": 145, "day_type": "Weekend", "month": "May", "date": "2024-05-21"},
-    {"building": "CPE", "usage_liters": 17600, "occupants": 180, "day_type": "Weekend", "month": "May", "date": "2024-05-21"},
-    {"building": "ECJ", "usage_liters": 16500, "occupants": 175, "day_type": "Weekday", "month": "May", "date": "2024-05-22"},
-    {"building": "EER", "usage_liters": 15300, "occupants": 155, "day_type": "Weekday", "month": "May", "date": "2024-05-22"},
-    {"building": "CPE", "usage_liters": 18500, "occupants": 190, "day_type": "Weekday", "month": "May", "date": "2024-05-22"},
-    {"building": "ECJ", "usage_liters": 16600, "occupants": 176, "day_type": "Weekday", "month": "May", "date": "2024-05-23"},
-    {"building": "EER", "usage_liters": 15400, "occupants": 156, "day_type": "Weekday", "month": "May", "date": "2024-05-23"},
-    {"building": "CPE", "usage_liters": 18600, "occupants": 191, "day_type": "Weekday", "month": "May", "date": "2024-05-23"},
-    {"building": "ECJ", "usage_liters": 16550, "occupants": 175, "day_type": "Weekday", "month": "May", "date": "2024-05-24"},
-    {"building": "EER", "usage_liters": 15350, "occupants": 155, "day_type": "Weekday", "month": "May", "date": "2024-05-24"},
-    {"building": "CPE", "usage_liters": 18550, "occupants": 190, "day_type": "Weekday", "month": "May", "date": "2024-05-24"},
-    {"building": "ECJ", "usage_liters": 16450, "occupants": 174, "day_type": "Weekday", "month": "May", "date": "2024-05-25"},
-    {"building": "EER", "usage_liters": 15250, "occupants": 154, "day_type": "Weekday", "month": "May", "date": "2024-05-25"},
-    {"building": "CPE", "usage_liters": 18450, "occupants": 189, "day_type": "Weekday", "month": "May", "date": "2024-05-25"},
-    {"building": "ECJ", "usage_liters": 16400, "occupants": 173, "day_type": "Weekday", "month": "May", "date": "2024-05-26"},
-    {"building": "EER", "usage_liters": 15200, "occupants": 153, "day_type": "Weekday", "month": "May", "date": "2024-05-26"},
-    {"building": "CPE", "usage_liters": 18400, "occupants": 188, "day_type": "Weekday", "month": "May", "date": "2024-05-26"},
-    {"building": "ECJ", "usage_liters": 16000, "occupants": 168, "day_type": "Weekend", "month": "May", "date": "2024-05-27"},
-    {"building": "EER", "usage_liters": 14700, "occupants": 148, "day_type": "Weekend", "month": "May", "date": "2024-05-27"},
-    {"building": "CPE", "usage_liters": 17800, "occupants": 183, "day_type": "Weekend", "month": "May", "date": "2024-05-27"},
-    {"building": "ECJ", "usage_liters": 15700, "occupants": 165, "day_type": "Weekend", "month": "May", "date": "2024-05-28"},
-    {"building": "EER", "usage_liters": 14400, "occupants": 145, "day_type": "Weekend", "month": "May", "date": "2024-05-28"},
-    {"building": "CPE", "usage_liters": 17600, "occupants": 180, "day_type": "Weekend", "month": "May", "date": "2024-05-28"},
-    {"building": "ECJ", "usage_liters": 16500, "occupants": 175, "day_type": "Weekday", "month": "May", "date": "2024-05-29"},
-    {"building": "EER", "usage_liters": 15300, "occupants": 155, "day_type": "Weekday", "month": "May", "date": "2024-05-29"},
-    {"building": "CPE", "usage_liters": 18500, "occupants": 190, "day_type": "Weekday", "month": "May", "date": "2024-05-29"},
-    {"building": "ECJ", "usage_liters": 16600, "occupants": 176, "day_type": "Weekday", "month": "May", "date": "2024-05-30"},
-    {"building": "EER", "usage_liters": 15400, "occupants": 156, "day_type": "Weekday", "month": "May", "date": "2024-05-30"},
-    {"building": "CPE", "usage_liters": 18600, "occupants": 191, "day_type": "Weekday", "month": "May", "date": "2024-05-30"},
-    {"building": "ECJ", "usage_liters": 16550, "occupants": 175, "day_type": "Weekday", "month": "May", "date": "2024-05-31"},
-    {"building": "EER", "usage_liters": 15350, "occupants": 155, "day_type": "Weekday", "month": "May", "date": "2024-05-31"},
-    {"building": "CPE", "usage_liters": 18550, "occupants": 190, "day_type": "Weekday", "month": "May", "date": "2024-05-31"}
+  {
+    "building": "ECJ",
+    "usage_liters": 15523,
+    "occupants": 174,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-01"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 14572,
+    "occupants": 150,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-01"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 16523,
+    "occupants": 189,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-01"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 14658,
+    "occupants": 148,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-02"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 11366,
+    "occupants": 131,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-02"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 15282,
+    "occupants": 160,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-02"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 14321,
+    "occupants": 148,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-03"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 12732,
+    "occupants": 136,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-03"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 14549,
+    "occupants": 171,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-03"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 14960,
+    "occupants": 175,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-04"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 14336,
+    "occupants": 153,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-04"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 18471,
+    "occupants": 184,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-04"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 16348,
+    "occupants": 174,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-05"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 14546,
+    "occupants": 156,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-05"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 16946,
+    "occupants": 184,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-05"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 14967,
+    "occupants": 176,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-06"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 13082,
+    "occupants": 151,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-06"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 16787,
+    "occupants": 180,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-06"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 13824,
+    "occupants": 162,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-07"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 13349,
+    "occupants": 145,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-07"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 16402,
+    "occupants": 186,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-07"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 14853,
+    "occupants": 173,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-08"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 13962,
+    "occupants": 151,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-08"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 16425,
+    "occupants": 180,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-08"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 14524,
+    "occupants": 153,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-09"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 13021,
+    "occupants": 141,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-09"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 16383,
+    "occupants": 169,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-09"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 14358,
+    "occupants": 148,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-10"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 13262,
+    "occupants": 128,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-10"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 15897,
+    "occupants": 170,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-10"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 16313,
+    "occupants": 171,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-11"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 14382,
+    "occupants": 143,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-11"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 17283,
+    "occupants": 184,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-11"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 16318,
+    "occupants": 167,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-12"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 14903,
+    "occupants": 154,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-12"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 15709,
+    "occupants": 193,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-12"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 14304,
+    "occupants": 170,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-13"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 13340,
+    "occupants": 154,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-13"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 15872,
+    "occupants": 186,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-13"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 15729,
+    "occupants": 161,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-14"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 13410,
+    "occupants": 149,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-14"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 18247,
+    "occupants": 192,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-14"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 16226,
+    "occupants": 177,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-15"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 15340,
+    "occupants": 143,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-15"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 18284,
+    "occupants": 190,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-15"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 14454,
+    "occupants": 146,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-16"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 11694,
+    "occupants": 134,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-16"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 16721,
+    "occupants": 173,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-16"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 12285,
+    "occupants": 155,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-17"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 12703,
+    "occupants": 128,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-17"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 16596,
+    "occupants": 160,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-17"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 15375,
+    "occupants": 177,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-18"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 13397,
+    "occupants": 157,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-18"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 16079,
+    "occupants": 179,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-18"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 16115,
+    "occupants": 165,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-19"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 14081,
+    "occupants": 143,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-19"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 15365,
+    "occupants": 186,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-19"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 13966,
+    "occupants": 162,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-20"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 14318,
+    "occupants": 152,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-20"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 18678,
+    "occupants": 185,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-20"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 15431,
+    "occupants": 174,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-21"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 12696,
+    "occupants": 145,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-21"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 18138,
+    "occupants": 193,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-21"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 15923,
+    "occupants": 164,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-22"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 12722,
+    "occupants": 154,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-22"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 17700,
+    "occupants": 188,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-22"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 14652,
+    "occupants": 157,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-23"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 13485,
+    "occupants": 129,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-23"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 15708,
+    "occupants": 161,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-23"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 14440,
+    "occupants": 150,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-24"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 12108,
+    "occupants": 137,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-24"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 14404,
+    "occupants": 168,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-24"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 16269,
+    "occupants": 165,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-25"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 14743,
+    "occupants": 149,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-25"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 15331,
+    "occupants": 192,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-25"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 15828,
+    "occupants": 164,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-26"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 13474,
+    "occupants": 149,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-26"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 18113,
+    "occupants": 183,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-26"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 14804,
+    "occupants": 173,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-27"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 13989,
+    "occupants": 148,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-27"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 16035,
+    "occupants": 187,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-27"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 14378,
+    "occupants": 170,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-28"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 14766,
+    "occupants": 153,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-28"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 15745,
+    "occupants": 189,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-28"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 14365,
+    "occupants": 171,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-29"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 13959,
+    "occupants": 144,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-29"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 15455,
+    "occupants": 194,
+    "day_type": "Weekday",
+    "month": "March",
+    "date": "2024-03-29"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 13665,
+    "occupants": 154,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-30"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 12345,
+    "occupants": 138,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-30"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 15902,
+    "occupants": 162,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-30"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 13557,
+    "occupants": 151,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-31"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 11478,
+    "occupants": 136,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-31"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 15926,
+    "occupants": 161,
+    "day_type": "Weekend",
+    "month": "March",
+    "date": "2024-03-31"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 15073,
+    "occupants": 169,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-01"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 16348,
+    "occupants": 151,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-01"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 19902,
+    "occupants": 182,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-01"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 17334,
+    "occupants": 168,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-02"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 15098,
+    "occupants": 157,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-02"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 19310,
+    "occupants": 176,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-02"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 17650,
+    "occupants": 163,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-03"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 14366,
+    "occupants": 152,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-03"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 20540,
+    "occupants": 181,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-03"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 17477,
+    "occupants": 171,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-04"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 16742,
+    "occupants": 150,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-04"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 18455,
+    "occupants": 179,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-04"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 16734,
+    "occupants": 165,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-05"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 14968,
+    "occupants": 150,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-05"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 17231,
+    "occupants": 191,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-05"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 15695,
+    "occupants": 154,
+    "day_type": "Weekend",
+    "month": "April",
+    "date": "2024-04-06"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 13264,
+    "occupants": 132,
+    "day_type": "Weekend",
+    "month": "April",
+    "date": "2024-04-06"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 15303,
+    "occupants": 167,
+    "day_type": "Weekend",
+    "month": "April",
+    "date": "2024-04-06"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 15230,
+    "occupants": 146,
+    "day_type": "Weekend",
+    "month": "April",
+    "date": "2024-04-07"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 12782,
+    "occupants": 135,
+    "day_type": "Weekend",
+    "month": "April",
+    "date": "2024-04-07"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 16746,
+    "occupants": 166,
+    "day_type": "Weekend",
+    "month": "April",
+    "date": "2024-04-07"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 16446,
+    "occupants": 163,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-08"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 14599,
+    "occupants": 148,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-08"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 18799,
+    "occupants": 193,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-08"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 17313,
+    "occupants": 167,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-09"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 14734,
+    "occupants": 151,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-09"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 19464,
+    "occupants": 189,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-09"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 17710,
+    "occupants": 166,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-10"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 14940,
+    "occupants": 146,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-10"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 18936,
+    "occupants": 189,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-10"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 17393,
+    "occupants": 168,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-11"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 14588,
+    "occupants": 149,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-11"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 19509,
+    "occupants": 179,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-11"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 15429,
+    "occupants": 170,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-12"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 14348,
+    "occupants": 150,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-12"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 19458,
+    "occupants": 177,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-12"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 14530,
+    "occupants": 154,
+    "day_type": "Weekend",
+    "month": "April",
+    "date": "2024-04-13"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 12603,
+    "occupants": 134,
+    "day_type": "Weekend",
+    "month": "April",
+    "date": "2024-04-13"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 18411,
+    "occupants": 161,
+    "day_type": "Weekend",
+    "month": "April",
+    "date": "2024-04-13"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 15268,
+    "occupants": 156,
+    "day_type": "Weekend",
+    "month": "April",
+    "date": "2024-04-14"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 13907,
+    "occupants": 132,
+    "day_type": "Weekend",
+    "month": "April",
+    "date": "2024-04-14"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 16717,
+    "occupants": 159,
+    "day_type": "Weekend",
+    "month": "April",
+    "date": "2024-04-14"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 15142,
+    "occupants": 178,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-15"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 14602,
+    "occupants": 156,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-15"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 20431,
+    "occupants": 183,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-15"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 15427,
+    "occupants": 163,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-16"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 16348,
+    "occupants": 149,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-16"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 20421,
+    "occupants": 180,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-16"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 16881,
+    "occupants": 162,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-17"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 16793,
+    "occupants": 154,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-17"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 20552,
+    "occupants": 189,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-17"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 17380,
+    "occupants": 175,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-18"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 14466,
+    "occupants": 154,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-18"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 18582,
+    "occupants": 181,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-18"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 18037,
+    "occupants": 168,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-19"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 15960,
+    "occupants": 147,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-19"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 18755,
+    "occupants": 194,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-19"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 15395,
+    "occupants": 154,
+    "day_type": "Weekend",
+    "month": "April",
+    "date": "2024-04-20"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 13168,
+    "occupants": 130,
+    "day_type": "Weekend",
+    "month": "April",
+    "date": "2024-04-20"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 15981,
+    "occupants": 171,
+    "day_type": "Weekend",
+    "month": "April",
+    "date": "2024-04-20"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 14357,
+    "occupants": 156,
+    "day_type": "Weekend",
+    "month": "April",
+    "date": "2024-04-21"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 14530,
+    "occupants": 136,
+    "day_type": "Weekend",
+    "month": "April",
+    "date": "2024-04-21"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 17179,
+    "occupants": 170,
+    "day_type": "Weekend",
+    "month": "April",
+    "date": "2024-04-21"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 15092,
+    "occupants": 162,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-22"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 16573,
+    "occupants": 150,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-22"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 17734,
+    "occupants": 181,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-22"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 15216,
+    "occupants": 167,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-23"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 14149,
+    "occupants": 149,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-23"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 18963,
+    "occupants": 186,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-23"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 15320,
+    "occupants": 175,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-24"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 15676,
+    "occupants": 146,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-24"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 17105,
+    "occupants": 181,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-24"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 15814,
+    "occupants": 169,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-25"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 14085,
+    "occupants": 142,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-25"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 20306,
+    "occupants": 188,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-25"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 15433,
+    "occupants": 165,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-26"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 15265,
+    "occupants": 148,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-26"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 20269,
+    "occupants": 191,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-26"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 13939,
+    "occupants": 153,
+    "day_type": "Weekend",
+    "month": "April",
+    "date": "2024-04-27"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 13129,
+    "occupants": 135,
+    "day_type": "Weekend",
+    "month": "April",
+    "date": "2024-04-27"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 15446,
+    "occupants": 166,
+    "day_type": "Weekend",
+    "month": "April",
+    "date": "2024-04-27"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 15305,
+    "occupants": 152,
+    "day_type": "Weekend",
+    "month": "April",
+    "date": "2024-04-28"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 15065,
+    "occupants": 130,
+    "day_type": "Weekend",
+    "month": "April",
+    "date": "2024-04-28"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 15966,
+    "occupants": 165,
+    "day_type": "Weekend",
+    "month": "April",
+    "date": "2024-04-28"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 17792,
+    "occupants": 164,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-29"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 15639,
+    "occupants": 149,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-29"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 18495,
+    "occupants": 187,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-29"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 17985,
+    "occupants": 170,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-30"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 15196,
+    "occupants": 146,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-30"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 18516,
+    "occupants": 184,
+    "day_type": "Weekday",
+    "month": "April",
+    "date": "2024-04-30"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 18590,
+    "occupants": 178,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-01"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 17035,
+    "occupants": 147,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-01"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 21155,
+    "occupants": 192,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-01"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 19717,
+    "occupants": 173,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-02"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 17874,
+    "occupants": 148,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-02"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 21390,
+    "occupants": 181,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-02"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 17585,
+    "occupants": 165,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-03"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 15272,
+    "occupants": 143,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-03"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 19032,
+    "occupants": 192,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-03"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 16305,
+    "occupants": 146,
+    "day_type": "Weekend",
+    "month": "May",
+    "date": "2024-05-04"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 14939,
+    "occupants": 132,
+    "day_type": "Weekend",
+    "month": "May",
+    "date": "2024-05-04"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 17413,
+    "occupants": 167,
+    "day_type": "Weekend",
+    "month": "May",
+    "date": "2024-05-04"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 15751,
+    "occupants": 158,
+    "day_type": "Weekend",
+    "month": "May",
+    "date": "2024-05-05"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 13640,
+    "occupants": 130,
+    "day_type": "Weekend",
+    "month": "May",
+    "date": "2024-05-05"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 17472,
+    "occupants": 171,
+    "day_type": "Weekend",
+    "month": "May",
+    "date": "2024-05-05"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 18286,
+    "occupants": 163,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-06"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 18355,
+    "occupants": 152,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-06"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 21991,
+    "occupants": 186,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-06"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 18242,
+    "occupants": 164,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-07"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 17618,
+    "occupants": 155,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-07"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 19726,
+    "occupants": 181,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-07"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 19062,
+    "occupants": 174,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-08"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 16492,
+    "occupants": 150,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-08"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 19863,
+    "occupants": 180,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-08"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 18294,
+    "occupants": 163,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-09"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 15990,
+    "occupants": 150,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-09"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 21354,
+    "occupants": 183,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-09"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 19276,
+    "occupants": 163,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-10"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 16926,
+    "occupants": 147,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-10"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 21994,
+    "occupants": 178,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-10"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 17613,
+    "occupants": 156,
+    "day_type": "Weekend",
+    "month": "May",
+    "date": "2024-05-11"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 13890,
+    "occupants": 129,
+    "day_type": "Weekend",
+    "month": "May",
+    "date": "2024-05-11"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 17506,
+    "occupants": 170,
+    "day_type": "Weekend",
+    "month": "May",
+    "date": "2024-05-11"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 16656,
+    "occupants": 148,
+    "day_type": "Weekend",
+    "month": "May",
+    "date": "2024-05-12"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 14406,
+    "occupants": 138,
+    "day_type": "Weekend",
+    "month": "May",
+    "date": "2024-05-12"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 17923,
+    "occupants": 169,
+    "day_type": "Weekend",
+    "month": "May",
+    "date": "2024-05-12"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 18936,
+    "occupants": 167,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-13"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 15514,
+    "occupants": 157,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-13"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 19247,
+    "occupants": 180,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-13"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 17245,
+    "occupants": 172,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-14"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 16657,
+    "occupants": 153,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-14"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 22368,
+    "occupants": 188,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-14"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 18727,
+    "occupants": 166,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-15"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 17647,
+    "occupants": 143,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-15"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 19398,
+    "occupants": 190,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-15"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 17463,
+    "occupants": 174,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-16"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 16637,
+    "occupants": 151,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-16"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 19922,
+    "occupants": 183,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-16"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 17503,
+    "occupants": 176,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-17"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 16164,
+    "occupants": 145,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-17"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 22406,
+    "occupants": 190,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-17"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 16909,
+    "occupants": 155,
+    "day_type": "Weekend",
+    "month": "May",
+    "date": "2024-05-18"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 16059,
+    "occupants": 138,
+    "day_type": "Weekend",
+    "month": "May",
+    "date": "2024-05-18"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 17101,
+    "occupants": 159,
+    "day_type": "Weekend",
+    "month": "May",
+    "date": "2024-05-18"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 17338,
+    "occupants": 154,
+    "day_type": "Weekend",
+    "month": "May",
+    "date": "2024-05-19"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 15488,
+    "occupants": 136,
+    "day_type": "Weekend",
+    "month": "May",
+    "date": "2024-05-19"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 18470,
+    "occupants": 171,
+    "day_type": "Weekend",
+    "month": "May",
+    "date": "2024-05-19"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 17295,
+    "occupants": 175,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-20"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 16651,
+    "occupants": 150,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-20"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 18782,
+    "occupants": 194,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-20"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 18546,
+    "occupants": 163,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-21"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 17532,
+    "occupants": 153,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-21"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 20073,
+    "occupants": 189,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-21"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 17103,
+    "occupants": 173,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-22"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 17897,
+    "occupants": 151,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-22"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 20680,
+    "occupants": 192,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-22"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 16915,
+    "occupants": 165,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-23"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 15263,
+    "occupants": 155,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-23"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 18542,
+    "occupants": 192,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-23"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 17732,
+    "occupants": 173,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-24"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 16058,
+    "occupants": 153,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-24"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 18431,
+    "occupants": 183,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-24"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 17369,
+    "occupants": 146,
+    "day_type": "Weekend",
+    "month": "May",
+    "date": "2024-05-25"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 14909,
+    "occupants": 128,
+    "day_type": "Weekend",
+    "month": "May",
+    "date": "2024-05-25"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 18723,
+    "occupants": 162,
+    "day_type": "Weekend",
+    "month": "May",
+    "date": "2024-05-25"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 17140,
+    "occupants": 151,
+    "day_type": "Weekend",
+    "month": "May",
+    "date": "2024-05-26"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 13612,
+    "occupants": 131,
+    "day_type": "Weekend",
+    "month": "May",
+    "date": "2024-05-26"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 19305,
+    "occupants": 160,
+    "day_type": "Weekend",
+    "month": "May",
+    "date": "2024-05-26"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 18673,
+    "occupants": 176,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-27"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 16921,
+    "occupants": 146,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-27"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 20736,
+    "occupants": 181,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-27"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 18827,
+    "occupants": 169,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-28"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 18036,
+    "occupants": 154,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-28"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 18971,
+    "occupants": 189,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-28"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 19332,
+    "occupants": 172,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-29"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 16885,
+    "occupants": 144,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-29"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 19415,
+    "occupants": 183,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-29"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 19031,
+    "occupants": 162,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-30"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 17639,
+    "occupants": 144,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-30"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 20244,
+    "occupants": 192,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-30"
+  },
+  {
+    "building": "ECJ",
+    "usage_liters": 17975,
+    "occupants": 178,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-31"
+  },
+  {
+    "building": "EER",
+    "usage_liters": 17554,
+    "occupants": 147,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-31"
+  },
+  {
+    "building": "CPE",
+    "usage_liters": 19211,
+    "occupants": 191,
+    "day_type": "Weekday",
+    "month": "May",
+    "date": "2024-05-31"
+  }
 ]
