@@ -1,0 +1,17 @@
+{
+    "steel": {
+      "alpha": 12e-6,
+      "E": 200e9,
+      "length": 10
+    },
+    "concrete": {
+      "alpha": 10e-6,
+      "E": 30e9,
+      "length": 10
+    },
+    "wood": {
+      "alpha": 5e-6,
+      "E": 10e9,
+      "length": 10 
+    }
+}
