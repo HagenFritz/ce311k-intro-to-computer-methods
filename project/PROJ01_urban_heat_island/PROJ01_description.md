@@ -1,4 +1,4 @@
-# Project 1: Urban Heat Island Effect Analysis
+# **Project 1: Urban Heat Island Effect Analysis**
 
 ## **Project Overview**
 The **Urban Heat Island Effect** refers to the phenomenon where urban areas experience higher temperatures than their rural surroundings, primarily due to human activities and environmental modifications (e.g., buildings, roads, and reduced vegetation). In this project, you will use **real weather forecasts** to analyze temperature differences between **urban** and **rural** areas in **three distinct climate zones** (tropical, temperate, and desert). You’ll compare forecasted temperatures, visualize the differences, and examine how **local climate** influences the severity of the heat island effect.

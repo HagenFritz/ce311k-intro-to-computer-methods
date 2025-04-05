@@ -1,40 +1,53 @@
-# Project 4: Outdoor Air Quality Forecasting
+# **Project 4: Outdoor Air Quality Forecasting**
 
-### **Project Overview**
-Outdoor air quality is heavily influenced by weather conditions, with factors like temperature, humidity, and wind speed playing a significant role in pollution levels. In this project, students will develop a tool that forecasts air quality levels based on weather conditions, using data to predict the best and worst times of day for air quality. By analyzing how different weather patterns influence air quality, students will develop a simple forecasting model that can help inform people about the air quality in a large city.
+## **Project Overview**
+Outdoor air quality is heavily influenced by **weather conditions**, with factors like **temperature**, **humidity**, and **wind speed** playing a significant role in pollution levels. In this project, you will develop a tool that forecasts **air quality** based on weather data for a large city (population > 500,000). By analyzing how different weather patterns influence pollution, you will create a simple model that predicts the **best** and **worst** times of day for air quality.
 
-### **Objective**
-Students will gather forecasted weather data and air quality measurements for a large city (population greater than 500,000) and create a model that predicts air quality based on weather trends. The goal is to develop a tool that can forecast the times of day when air quality will be worst or best, and visualize the forecasted air quality against weather conditions. Students will explore the relationship between various weather conditions and pollution levels, and see how these factors vary across different seasons.
+## **Major Questions for Your Proposal**
 
-### **Project Definitions**
+1. **City Choice & Data Approach**  
+   Which large city (population > 500,000) are you planning to focus on, and why? Do you expect the city’s climate or daily weather variation to significantly impact air quality? What relationship do you expect between various weather conditions and air quality?
 
-#### **Weather Parameters**
-Students should use the following weather parameters, but can include additional metrics if they choose to:
-1. **Temperature**: Warmer temperatures can worsen air quality by increasing the rate of chemical reactions in the atmosphere that form pollutants.
-2. **Humidity**: High humidity can contribute to the trapping of pollutants close to the ground.
-3. **Wind Speed**: Strong winds can help disperse pollutants, improving air quality.
-  
-#### **Pollution Levels**
-Air quality is typically measured using the **Air Quality Index (AQI)**, which gives an indication of how polluted the air is and how it may affect health. Students will forecast this value using weather data.
+2. **Predictive Model Setup**  
+   How do you intend to use the forecasted weather data (temperature, humidity, wind speed) and air quality data (AQI) to develop a predictive model? Will you use a **simple regression**, a **correlation-based** approach, or something else to predict future air quality? How will you handle any anomalies or missing data?
 
-#### **Data Sources**
-**Forecast API** (e.g., OpenWeatherMap Forecast API) and **Air Pollution API** (e.g., OpenWeatherMap or other air quality data providers):
-- **Weather Data**: This will provide forecasted data on temperature, humidity, and wind speed.
-- **Air Quality Data**: This will provide real-time and forecasted AQI for the selected city.
-  - You will need to sign up to get an API Key which you can use to authenticate via a query parameter.
+3. **Visualization Strategy**  
+   How do you plan to **visualize** the relationship between the data you gather for the forecasted air quality and weather conditions? For instance, will you create **scatter plots**, line charts, or heatmaps? Which approach will provide the greatest insights before you start developing your predictive model?
 
-### **Project Requirements**
-1. **Data Collection**
-   - Use the **Forecast API** to fetch forecasted weather data for a single large city (population greater than 500,000) for the next few days, focusing on temperature, humidity, and wind speed.
-   - Use the **Air Pollution API** to fetch AQI data for the same city.
-   - The city should be located in a region where weather patterns are significant in affecting air quality.
+## **Objective**
+You will gather **forecasted weather** (temperature, humidity, wind speed) and **forecasted air quality (AQI)** data for a **large city** (population > 500,000) of your choosing and develop a **predictive model** that identifies the times of day when air quality is likely to be the worst or best. By exploring the **relationship** between weather conditions and pollution levels, you will discover how air quality fluctuates over a forecast period (e.g., the next few days) and share insights that can help the public make informed decisions.
 
-2. **Analysis**
-   - Analyze the relationship between forecasted weather conditions (temperature, humidity, wind speed) and air quality (AQI).
-   - Use a simple regression or other predictive model to forecast air quality based on the weather trends.
-   - Identify the times of day when air quality is expected to be the worst or best based on the forecasted weather and AQI.
+## **Project Definitions**
 
-3. **Visualization**
-   - Create **3 scatter plots**, one for each weather parameter (temperature, humidity, wind speed) plotted against air quality (AQI).
-   - The scatter plots should clearly show how each weather variable impacts air quality.
-   - Ensure the visualizations provide insights into how weather conditions influence the air quality at different times.
+### **Weather Parameters**
+1. **Temperature**: Warmer temperatures can worsen air quality by increasing the rate of chemical reactions that form pollutants.  
+2. **Humidity**: High humidity can trap pollutants closer to the ground.  
+3. **Wind Speed**: Strong winds can help disperse pollutants, potentially improving air quality.
+
+### **Pollution Levels**
+- **Air Quality Index (AQI)**: A standardized measure of how polluted the air is, indicating potential health impacts. You will forecast AQI values using your chosen model.
+
+## **Data Sources**
+- **Forecast API** (e.g., OpenWeatherMap 5-day or 16-day Forecast):  
+  Provides forecasted data on temperature, humidity, and wind speed.  
+- **Air Pollution API** (e.g., OpenWeatherMap Air Pollution, or another provider):  
+  Offers real-time and/or forecasted AQI data for the same city.  
+- You will need to **sign up** for an API key to authenticate your requests.
+
+## **Project Requirements**
+
+1. **Data Collection**  
+   - Select **one large city** (population > 500,000) to focus on. Base your choice on your responses to **Major Question 1**
+   - Use the **Forecast API** to fetch weather data (temperature, humidity, wind speed) for the next few days in the chosen city.  
+   - Use the **Air Pollution API** to fetch AQI data over the same time period.  
+
+2. **Visualization**  
+   - As you outlined in **Major Question 3**, create visuals to explore the relationship between weather parameters and air quality.  
+   - Annotate, highlight, or simply denote **peak pollution** periods (worst AQI) and **lowest pollution** periods (best AQI).  
+   - Ensure your visualizations clearly communicate the existance (or absence) of a **relationship** between weather variables and air quality over time.
+
+3. **Analysis**  
+   - Follow your plan from **Major Question 2** to create a regression or other predictive approach that correlates weather conditions with AQI.  
+   - Use the outcome from that analysis to identify the **times of day** when air quality is likely to be the **worst** or **best**, based on the weather forecast.  
+   - Use your model with synthetic data to predict air quality for different weather conditions. Do these predictions make sense? Are there limitations to your model i.e. are there certain weather conditions that your model cannot predict or certiain conditions that invalidate your model?
+   - Consider data quality issues: handle missing, anomalous, or inconsistent data in a systematic way.

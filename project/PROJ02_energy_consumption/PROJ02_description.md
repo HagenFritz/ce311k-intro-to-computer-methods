@@ -1,10 +1,24 @@
 # **Project 2: Building Energy Consumption Predictor**
 
-### **Project Overview**
-Energy consumption in buildings is influenced by weather conditions, building design, insulation, and occupancy patterns. In this project, students will use **TMY (Typical Meteorological Year)** data to estimate the **annual energy consumption** of three different buildings. By calculating **heating** and **cooling** energy requirements based on temperature and humidity (through Wet-Bulb Temperature), students will compare the energy consumption of buildings with different characteristics, such as size, insulation, and heating/cooling system efficiency.
+## **Project Overview**
+Energy consumption in buildings depends on a variety of factors, including **weather conditions**, **building design**, **insulation quality**, and **occupancy patterns**. In this project, you will use **TMY (Typical Meteorological Year)** data to estimate the **annual energy consumption** of three different buildings. By calculating **heating** and **cooling** requirements from temperature and humidity (via **Wet-Bulb Temperature (WBT)** for cooling, and **dry-bulb temperature** for heating), you’ll compare how factors such as **building type**, **size**, and **insulation level** affect overall energy usage.
 
-### **Objective**
-Students will use hourly TMY data for a location of their choosing to predict the annual heating and cooling energy requirements for three buildings. They will calculate the **heating** and **cooling** demands over the entire year using **Wet-Bulb Temperature (WBT)** for cooling and dry-bulb temperature for heating, applying specific **conversion factors** for each. The students will then compare the energy consumption across three building types with varying insulation levels.
+### **Major Questions for Your Proposal**
+
+1. **Location Choice and Building Characteristics**  
+   - Which city/location will you choose to run your analysis in? Why did you choose this location? Does it have seasonal variability or not? What would you expect to see in terms of energy consumption at this location?
+   - Which building types provided in the JSON file do you think will consume the most energy? Why? 
+
+2. **Wet-Bulb Temperature & Data Handling**  
+   How do you plan to calculate the **Wet-Bulb Temperature (WBT)** from the TMY data for cooling energy? Will you calculate it separately and store it in a list or will you calculate it as you iterate through the data? Will you store or preprocess the data in a particular format? How will you handle any data anomalies (e.g., missing hours)?
+
+3. **Visualization Strategy**  
+   How will you **visualize** your results (e.g., line plots, bar charts, side-by-side comparisons) to highlight differences in **heating** and **cooling** energy usage among the three building types?
+
+> **Note**: Your final approach can evolve once you begin working with real data. These questions ensure you have a plan and can adapt as needed.
+
+## **Objective**
+You will use **hourly TMY data** for a location in the United States (of your choosing) to predict the **annual heating and cooling energy needs** for **three distinct buildings**. By calculating **WBT** for cooling and using **dry-bulb temperature** for heating, you’ll apply **heating and cooling conversion factors** to estimate kWh usage. You’ll then compare the **total energy consumption** across building types with varying insulation quality and system efficiencies.
 
 ### **Project Definitions**
 
@@ -56,24 +70,20 @@ The **conversion factors** are assigned differently for **heating** and **coolin
 
 ### **Project Requirements**
 1. **Data Collection**
-   - Use the [NSRDB Viewer](https://nsrdb.nrel.gov/data-viewer) to find a location (USA only) you are interested in
-   - Choose option for "USA & Americas - Typical Meteorological Year"
-   - **Select Attributes**: Check off the "Temperature" and "Relative Humidity" attributes (and any others you are interested in)
-   - **Select Year**: Choose the "tmy" data file with the latest year - most likey "tmy-2023"
-   - **Select Interval**: Choose "60 minutes"
-   - Check the box to "Convert UTC to Local Time"
-   - Input your email and click the "Download" button
+   - Use the [NSRDB Viewer](https://nsrdb.nrel.gov/data-viewer) to find a location (USA only) you are interested in and download the latest TMY data from that location with a 60-minute interval and be sure to choose the option to convert UTC to local time.
   
 2. **Energy Prediction Model**
-   - Calculate **WBT** for cooling energy using the hourly **temperature** and **humidity** values from the TMY data.
-   - For heating, you will use the **dry-bulb temperature** (provided in the TMY file)
-   - Estimate the Heating, Cooling, and Total energy consumption for each hour in the TMY file, applying the appropriate factors based on the building characteristics:
+   - Calculate **WBT** for cooling energy using the hourly **temperature** and **humidity** values from the TMY data. Be sure to check for any missing values for either relative humidity or temperature and handle them appropriately.
+   - For heating, you will use the **dry-bulb temperature** (provided in the TMY file). Be sure to drop any rows with missing values for temperature or that you dropped from your calculation of WBT.
+   - Estimate the Heating, Cooling, and Total energy consumption for each hour in the TMY file, applying the appropriate factors based on the building characteristics in hte JSON file. 
 
 3. **Analysis**
    - Calculate **annual energy consumption** for heating, cooling, and total for each building.
-   - Compare the total energy consumption for **different building types** (e.g., residential, commercial, and industrial).
-   - Explore how **insulation quality** and **building type** affect energy consumption, particularly for buildings with poor versus good insulation.
+   - Compare the total energy consumption for **different building types** (e.g., residential, commercial, and industrial). Do these results match your expectations from Major Question 1? Do you think these are realistic?
+   - Look for trends: Do certain temperatures or times of year drive consumption significantly higher? Why?
 
 4. **Visualization**
-   - Create a line plot for each building (3 plots) to compare the **predicted energy consumption** for each building over the course of the year. Each plot should have the heating, cooling, and total energy consumption as separate lines. 
-   - Visualize and compare the heating, cooling, and total energy requirements for each building type. You should create a line plot for each comparison (3 plots): heating, cooling, and total.
+   - Provide visuals that help support your analysis based on your answer to Major Question 3. Some visuals to consider: 
+      - A bar chart or line graph comparing the energy consumption between different building types.
+      - A time series plot showing energy consumption trends over time. These could be between different building types
+      - Cumulative energy consumption over the year for each building type.

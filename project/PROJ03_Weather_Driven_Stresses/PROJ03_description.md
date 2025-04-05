@@ -1,10 +1,19 @@
 # **Project 3: Weather-driven Civil Infrastructure Stress Simulator**
 
-### **Project Overview**
+## **Project Overview**
 Civil infrastructure is subject to stresses induced by varying weather conditions, which can cause deterioration over time. In this project, students will use **TMY (Typical Meteorological Year)** data to estimate the **stress levels** on three types of infrastructure (bridges, roads, buildings) based on temperature fluctuations. They will simulate the **thermal expansion** of materials and analyze how these weather-driven changes can affect the integrity of different types of infrastructure.
 
+### Major Questions for Your Proposal
+1. **Location and Material Types**  
+   - Which location do you plan to analyze for your TMY data? Why did you choose this location? Do you think the conditions at that location will have significant effects on the stress levels of the infrastructure?
+   - Which material types do you think will experience significant thermal expansion? Which will experience the greatest stress? Would these effects differ if you chose a different location?
+2. **Thermal Expansion Calculation Strategy**  
+   How do you plan to apply the thermal expansion formulas across the hourly TMY data? Will you store intermediate values (expansion, stress) for each material in a list or process them on-the-fly? Will you process one material at a time or process each material in parallel for each hour? How will you handle missing or anomalous temperature data?  
+3. **Visualization Approach**  
+   How will you visualize the expansion and stress results for each material? Will you use line plots, bar comparisons, or some other approach? Will you show cumulative stress over time? How do you think these plots will highlight differences among the materials?
+
 ### **Objective**
-Students will use hourly TMY data to predict the **weather-induced stress** on infrastructure materials, focusing on temperature. The project will involve calculating **thermal expansion** using the **coefficient of thermal expansion (CTE)** for various building materials. Students will then compare the simulated stress on infrastructure made from different materials (steel, concrete, and wood) across the entire year.
+You will use hourly TMY data from a chosen location in the United States to simulate the thermal expansion and resulting stress in three infrastructure types. By comparing steel, concrete, and wood under identical temperature changes, you will identify how material properties influence stress levels and highlight the role of extreme temperature events.
 
 ### **Project Definitions**
 
@@ -49,22 +58,19 @@ Here are some material properties that will be used for the simulation:
 
 ### **Project Requirements**
 1. **Data Collection**
-   - Use the [NSRDB Viewer](https://nsrdb.nrel.gov/data-viewer) to download the **TMY** file for a location of your choice.
-   - Choose the “USA & Americas - Typical Meteorological Year” option.
-   - Select **Temperature** and **Relative Humidity** attributes.
-   - Use the **tmy-2023** file for the most recent data.
-   - Set the interval to **60 minutes** and select the option to “Convert UTC to Local Time”.
+   - Use the [NSRDB Viewer](https://nsrdb.nrel.gov/data-viewer) to find a location (USA only) you are interested in and download the latest TMY data from that location with a 60-minute interval and be sure to choose the option to convert UTC to local time.
 
 2. **Simulation Model**
-   - Use the hourly **temperature** data from the TMY file to calculate **thermal expansion** for each material (steel, concrete, and wood) at each hour of the year.
+   - Use the hourly **temperature** data from the TMY file to calculate **thermal expansion** for each material (steel, concrete, and wood) at each hour of the year. Use or update the process you outlined in your proposal for Major Question 2.
    - Calculate the **stress** induced by thermal expansion at each hour of the year for each material using the **coefficient of thermal expansion (CTE)** and **Young’s Modulus** values from the provided material properties table.
    
 3. **Analysis**
    - Simulate the **annual stress** on infrastructure due to temperature changes for each material type (see above)
-   - Compare the stress levels induced by temperature fluctuations for **steel**, **concrete**, and **wood**. Consider ideas such as (but not limited to): mean changes in expansion/stress, maximum stress events, etc. 
+   - Compare steel, concrete, and wood by identifying times of peak stress, cumulative stress over the year, and/or average daily stress. Discuss whether the results match your initial thoughts about material performance from Major Question 1.
    - Analyze how **temperature extremes** (e.g., heatwaves and cold snaps) contribute to stress and how material properties impact infrastructure resilience.
 
 4. **Visualization**
-   - Create a **line plot** for each material to show the **thermal expansion** over the course of the year.
-   - Create a **line plot** comparing the **stress levels** for each material across the year, highlighting peak stress events.
-   - Visualize and compare the total **annual stress** (cumulative sum) for each material.
+   - Present plots that show expansion and/or stress trends over time, following your proposal from Major Question 3. Consider:
+      - line plots of hourly expansion/stress values across the year. Can you highlight extreme events (e.g., heatwaves, cold snaps)?
+      - bar comparisons of annual expansion/stress or cumulative stress for each material type
+      - side-by-side or grouped comparisons of expansion/stress or cumulative expansion/stress for each material type
