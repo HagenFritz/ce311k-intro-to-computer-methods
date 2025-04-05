@@ -28,9 +28,9 @@ You will gather **forecasted weather** (temperature, humidity, wind speed) and *
 - **Air Quality Index (AQI)**: A standardized measure of how polluted the air is, indicating potential health impacts. You will forecast AQI values using your chosen model.
 
 ## **Data Sources**
-- **Forecast API** (e.g., OpenWeatherMap 5-day or 16-day Forecast):  
+- **Forecast API**: [OpenWeatherMap 5-day Forecast](https://openweathermap.org/forecast5)
   Provides forecasted data on temperature, humidity, and wind speed.  
-- **Air Pollution API** (e.g., OpenWeatherMap Air Pollution, or another provider):  
+- **Air Pollution API**: [OpenWeatherMap Air Pollution](https://openweathermap.org/api/air-pollution)
   Offers real-time and/or forecasted AQI data for the same city.  
 - You will need to **sign up** for an API key to authenticate your requests.
 
@@ -51,3 +51,6 @@ You will gather **forecasted weather** (temperature, humidity, wind speed) and *
    - Use the outcome from that analysis to identify the **times of day** when air quality is likely to be the **worst** or **best**, based on the weather forecast.  
    - Use your model with synthetic data to predict air quality for different weather conditions. Do these predictions make sense? Are there limitations to your model i.e. are there certain weather conditions that your model cannot predict or certiain conditions that invalidate your model?
    - Consider data quality issues: handle missing, anomalous, or inconsistent data in a systematic way.
+
+4. **Data File**
+   - Save your synthetic weather data with the predicted air quality data to a `csv` or `json` file.
