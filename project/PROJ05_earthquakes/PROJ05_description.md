@@ -58,3 +58,6 @@ You will collect **earthquake data** from the **USGS Earthquake Catalog API** ov
      - **Time series** of earthquakes by date or magnitude to see trends.  
      - **Histogram** showing the distribution of magnitudes or depths.  
    - Include annotations and thresholds to highlight potential areas of concern.
+
+4. **Data File**
+   - Save the primary earthquake data you used to a `csv` or `json` file.
