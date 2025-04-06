@@ -3,19 +3,25 @@
 ## **Project Overview**
 Outdoor air quality is heavily influenced by **weather conditions**, with factors like **temperature**, **humidity**, and **wind speed** playing a significant role in pollution levels. In this project, you will develop a tool that forecasts **air quality** based on weather data for a large city (population > 500,000). By analyzing how different weather patterns influence pollution, you will create a simple model that predicts the **best** and **worst** times of day for air quality.
 
-## **Major Questions for Your Proposal**
+### **Objective**
+You will gather **forecasted weather** (temperature, humidity, wind speed) and **forecasted air quality (AQI)** data for a **large city** (population > 500,000) of your choosing and develop a **predictive model** that identifies the times of day when air quality is likely to be the worst or best. By exploring the **relationship** between weather conditions and pollution levels, you will discover how air quality fluctuates over a forecast period (e.g., the next few days) and share insights that can help the public make informed decisions.
+
+### **Major Questions for Your Proposal**
 
 1. **City Choice & Data Approach**  
-   Which large city (population > 500,000) are you planning to focus on, and why? Do you expect the city’s climate or daily weather variation to significantly impact air quality? What relationship do you expect between various weather conditions and air quality?
+   - Which large city (population > 500,000) are you planning to focus on, and why?
+   - Do you expect the city’s climate or daily weather variation to significantly impact air quality?
+   - What relationship do you expect between various weather conditions and air quality?
 
 2. **Predictive Model Setup**  
-   How do you intend to use the forecasted weather data (temperature, humidity, wind speed) and air quality data (AQI) to develop a predictive model? Will you use a **simple regression**, a **correlation-based** approach, or something else to predict future air quality? How will you handle any anomalies or missing data?
+   - How do you intend to use the forecasted weather data (temperature, humidity, wind speed) and air quality data (AQI) to develop a predictive model?
+   - Will you use a **simple regression**, a **correlation-based** approach, or something else to predict future air quality?
+   - How will you handle any anomalies or missing data?
 
 3. **Visualization Strategy**  
-   How do you plan to **visualize** the relationship between the data you gather for the forecasted air quality and weather conditions? For instance, will you create **scatter plots**, line charts, or heatmaps? Which approach will provide the greatest insights before you start developing your predictive model?
-
-## **Objective**
-You will gather **forecasted weather** (temperature, humidity, wind speed) and **forecasted air quality (AQI)** data for a **large city** (population > 500,000) of your choosing and develop a **predictive model** that identifies the times of day when air quality is likely to be the worst or best. By exploring the **relationship** between weather conditions and pollution levels, you will discover how air quality fluctuates over a forecast period (e.g., the next few days) and share insights that can help the public make informed decisions.
+   - How do you plan to **visualize** the relationship between the data you gather for the forecasted air quality and weather conditions?
+   - What figures will you use to explore the data - which approach will provide the greatest insights before you start developing your predictive model? 
+   - Which figures will you use to present your findings? 
 
 ## **Project Definitions**
 
@@ -43,7 +49,7 @@ You will gather **forecasted weather** (temperature, humidity, wind speed) and *
 
 2. **Visualization**  
    - As you outlined in **Major Question 3**, create visuals to explore the relationship between weather parameters and air quality.  
-   - Annotate, highlight, or simply denote **peak pollution** periods (worst AQI) and **lowest pollution** periods (best AQI).  
+   - Try using annotations, highlights, or simply denote **peak pollution** periods (worst AQI) and **lowest pollution** periods (best AQI).  
    - Ensure your visualizations clearly communicate the existance (or absence) of a **relationship** between weather variables and air quality over time.
 
 3. **Analysis**  
