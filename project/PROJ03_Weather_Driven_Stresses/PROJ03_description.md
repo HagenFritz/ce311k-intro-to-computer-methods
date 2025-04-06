@@ -3,21 +3,24 @@
 ## **Project Overview**
 Civil infrastructure is subject to stresses induced by varying weather conditions, which can cause deterioration over time. In this project, students will use **TMY (Typical Meteorological Year)** data to estimate the **stress levels** on three types of infrastructure (bridges, roads, buildings) based on temperature fluctuations. They will simulate the **thermal expansion** of materials and analyze how these weather-driven changes can affect the integrity of different types of infrastructure.
 
-### Major Questions for Your Proposal
+### **Objective**
+You will use hourly TMY data from a chosen location in the United States to simulate the thermal expansion and resulting stress in three infrastructure types. By comparing steel, concrete, and wood under identical temperature changes, you will identify how material properties influence stress levels and highlight the role of extreme temperature events.
+
+### **Major Questions for Your Proposal**
 1. **Location and Material Types**  
    - Which location do you plan to analyze for your TMY data? Why did you choose this location? Do you think the conditions at that location will have significant effects on the stress levels of the infrastructure?
    - Which material types do you think will experience significant thermal expansion? Which will experience the greatest stress? Would these effects differ if you chose a different location?
 2. **Thermal Expansion Calculation Strategy**  
-   How do you plan to apply the thermal expansion formulas across the hourly TMY data? Will you store intermediate values (expansion, stress) for each material in a list or process them on-the-fly? Will you process one material at a time or process each material in parallel for each hour? How will you handle missing or anomalous temperature data?  
+   - How do you plan to apply the thermal expansion formulas across the hourly TMY data? Will you store intermediate values (expansion, stress) for each material in a list or process them on-the-fly? Will you process one material at a time or process each material in parallel for each hour?
+   - How will you handle missing or anomalous temperature data?  
 3. **Visualization Approach**  
-   How will you visualize the expansion and stress results for each material? Will you use line plots, bar comparisons, or some other approach? Will you show cumulative stress over time? How do you think these plots will highlight differences among the materials?
+   - How will you visualize the thermal expansion and stress results for each material? Will you use line plots, bar comparisons, or some other approach? 
+   - Will you show cumulative stress over time?
+   - How do you think these plots will highlight differences among the materials?
 
-### **Objective**
-You will use hourly TMY data from a chosen location in the United States to simulate the thermal expansion and resulting stress in three infrastructure types. By comparing steel, concrete, and wood under identical temperature changes, you will identify how material properties influence stress levels and highlight the role of extreme temperature events.
+## **Project Definitions**
 
-### **Project Definitions**
-
-#### **Thermal Expansion Calculation**
+### **Thermal Expansion Calculation**
 The **thermal expansion** of a material due to temperature change can be calculated using the formula:
 
 $$
@@ -30,7 +33,7 @@ Where:
 - **$L_0$** is the initial length of the material (m).
 - **$\Delta T$** is the change in temperature (°C).
 
-#### **Stress Induced by Expansion**
+### **Stress Induced by Expansion**
 To calculate the stress induced by expansion:
 
 $$
@@ -43,7 +46,7 @@ Where:
 - **$\Delta L$** is the expansion (m).
 - **$L_0$** is the initial length (m).
 
-#### **Materials Properties**
+### **Materials Properties**
 Here are some material properties that will be used for the simulation:
 
 | Material   | Coefficient of Thermal Expansion (CTE) (1/°C) | Young's Modulus (Pa) |
@@ -52,7 +55,7 @@ Here are some material properties that will be used for the simulation:
 | **Concrete** | 10e-6                                     | 30e9                 |
 | **Wood**   | 5e-6                                        | 10e9                 |
 
-### **Data Sources**
+## **Data Sources**
 - **TMY Data**: Hourly temperature and humidity data from the TMY file for a selected location. This data will be used to calculate the temperature fluctuations throughout the year.
 - **Material Properties**: Data on the coefficient of thermal expansion (CTE) and Young's Modulus (E) for different materials will be stored in a JSON file.
 
