@@ -1,0 +1,401 @@
+activity_type,planned_duration_days,weather_impact,subcontractor_availability,project_size_category,crew_size,material_delivery_delay_days,inspection_required,activity_complexity,actual_duration_days,delay_days,delay_reason
+plumbing,8,high,very late,large,14,0.4,no,medium,16,8,labor
+plumbing,7,none,on-time,medium,11,2.3,no,medium,9,2,unknown
+roofing,7,high,on-time,small,13,1.3,yes,medium,13,6,weather
+plumbing,8,none,on-time,medium,10,4.9,yes,medium,15,7,material
+electrical,6,none,on-time,medium,5,1.6,yes,medium,13,7,unknown
+plumbing,8,moderate,late,medium,4,2.2,no,medium,17,9,labor
+electrical,6,none,late,medium,6,0.6,yes,medium,14,8,labor
+plumbing,6,none,late,medium,10,0.1,no,low,8,2,labor
+plumbing,4,high,very late,medium,14,2.5,yes,low,15,11,labor
+framing,11,none,very late,medium,6,2.7,no,medium,20,9,labor
+framing,12,none,very late,medium,5,1.9,no,low,19,7,labor
+plumbing,7,moderate,on-time,small,7,0.0,yes,medium,12,5,unknown
+plumbing,8,high,very late,small,11,0.0,no,medium,17,9,labor
+plumbing,8,high,late,small,3,0.0,no,high,17,9,weather
+framing,11,moderate,very late,medium,9,1.2,no,high,18,7,labor
+foundation,12,high,very late,medium,4,0.0,no,low,21,9,labor
+plumbing,4,moderate,on-time,small,10,0.0,yes,medium,8,4,unknown
+roofing,7,none,very late,medium,9,0.0,no,medium,15,8,labor
+plumbing,4,high,very late,medium,12,4.2,yes,low,18,14,labor
+framing,7,none,late,large,3,2.0,no,medium,15,8,labor
+roofing,7,none,on-time,large,14,2.2,yes,medium,11,4,unknown
+roofing,8,none,very late,medium,9,3.8,no,medium,17,9,labor
+electrical,5,none,on-time,small,11,0.0,no,low,5,0,weather
+foundation,12,none,on-time,small,6,0.0,no,medium,15,3,unknown
+roofing,5,moderate,late,small,8,0.4,yes,medium,12,7,labor
+roofing,8,none,on-time,medium,13,0.2,yes,medium,10,2,unknown
+electrical,7,high,late,small,4,1.6,yes,high,19,12,weather
+electrical,5,none,on-time,large,8,0.0,no,high,8,3,unknown
+electrical,4,high,late,small,3,0.0,yes,high,14,10,weather
+roofing,5,moderate,very late,medium,6,1.5,no,high,15,10,labor
+foundation,15,none,very late,large,6,0.7,no,medium,22,7,labor
+plumbing,4,moderate,on-time,large,13,1.3,yes,medium,10,6,unknown
+electrical,7,none,on-time,medium,4,0.0,yes,medium,13,6,unknown
+foundation,14,high,late,large,5,1.1,yes,medium,23,9,weather
+plumbing,4,moderate,late,small,14,3.6,no,low,10,6,labor
+framing,9,high,very late,large,3,0.0,no,low,18,9,labor
+plumbing,5,moderate,on-time,large,8,1.2,no,medium,9,4,weather
+electrical,7,high,on-time,small,7,1.6,no,medium,13,6,weather
+plumbing,6,moderate,very late,medium,8,2.3,no,medium,13,7,labor
+foundation,10,none,late,small,7,0.1,yes,low,17,7,labor
+electrical,4,moderate,on-time,large,14,0.0,no,high,7,3,unknown
+roofing,5,moderate,on-time,medium,7,2.2,no,medium,8,3,weather
+framing,8,none,late,medium,3,0.0,no,high,18,10,labor
+roofing,6,moderate,late,small,12,1.5,no,low,9,3,labor
+roofing,6,moderate,on-time,medium,14,0.6,yes,medium,10,4,unknown
+plumbing,4,none,late,medium,9,0.2,no,high,12,8,labor
+foundation,13,none,on-time,small,11,0.0,no,medium,14,1,unknown
+foundation,13,high,on-time,medium,12,0.8,yes,low,18,5,weather
+framing,11,none,on-time,small,5,0.0,no,low,15,4,weather
+electrical,6,none,very late,large,13,1.3,yes,medium,15,9,labor
+electrical,8,none,on-time,large,9,0.3,no,high,11,3,unknown
+electrical,8,high,late,small,5,1.2,no,medium,18,10,weather
+foundation,11,moderate,on-time,medium,8,0.0,no,medium,14,3,weather
+framing,12,none,on-time,small,13,0.1,no,medium,13,1,unknown
+electrical,6,none,late,small,9,1.9,no,low,10,4,labor
+electrical,4,none,on-time,medium,10,0.0,yes,low,5,1,unknown
+framing,9,high,very late,large,8,3.1,no,medium,20,11,labor
+electrical,4,moderate,late,large,9,3.3,yes,medium,13,9,labor
+plumbing,4,none,on-time,large,8,2.6,yes,low,10,6,unknown
+roofing,7,moderate,late,large,9,2.3,no,medium,13,6,labor
+foundation,12,none,on-time,small,14,2.1,no,low,13,1,weather
+framing,9,none,very late,small,13,3.1,yes,low,18,9,labor
+electrical,7,none,on-time,medium,6,1.9,no,low,9,2,weather
+roofing,5,none,on-time,medium,14,3.7,yes,low,8,3,material
+framing,11,high,very late,medium,3,0.0,yes,high,25,14,labor
+roofing,8,none,very late,medium,4,0.6,no,high,18,10,labor
+electrical,6,none,late,medium,6,1.8,no,medium,12,6,labor
+electrical,4,high,on-time,small,8,0.0,no,low,8,4,weather
+foundation,13,moderate,very late,small,13,2.8,yes,medium,24,11,labor
+plumbing,6,none,on-time,medium,8,0.0,no,high,11,5,unknown
+electrical,6,high,on-time,small,3,0.0,no,medium,15,9,weather
+electrical,8,none,late,medium,11,0.2,no,medium,12,4,labor
+framing,12,moderate,late,large,9,0.1,no,medium,18,6,labor
+framing,11,high,on-time,large,11,0.0,no,medium,14,3,weather
+plumbing,7,none,on-time,medium,8,2.7,yes,medium,13,6,unknown
+framing,12,none,on-time,small,4,2.1,no,medium,18,6,unknown
+foundation,15,moderate,on-time,small,6,2.4,no,medium,20,5,weather
+plumbing,5,none,on-time,small,12,2.6,no,medium,9,4,unknown
+roofing,5,none,late,small,12,0.0,no,low,6,1,labor
+framing,7,moderate,on-time,large,13,1.5,yes,medium,12,5,unknown
+roofing,9,moderate,on-time,small,6,2.2,no,medium,14,5,weather
+plumbing,5,none,late,large,7,2.0,yes,medium,14,9,labor
+plumbing,6,moderate,on-time,small,12,0.0,yes,medium,9,3,unknown
+framing,9,none,on-time,small,4,0.6,yes,medium,15,6,unknown
+roofing,5,none,late,small,6,1.6,no,medium,11,6,labor
+framing,10,moderate,late,medium,11,0.0,no,medium,16,6,labor
+electrical,6,none,on-time,medium,3,2.6,no,high,15,9,unknown
+electrical,6,none,on-time,medium,13,0.3,no,medium,7,1,unknown
+foundation,15,none,on-time,small,6,0.8,no,low,18,3,weather
+plumbing,5,moderate,very late,large,8,0.1,yes,medium,15,10,labor
+electrical,5,none,on-time,medium,8,1.6,no,high,11,6,unknown
+framing,7,none,on-time,large,3,3.4,no,medium,16,9,material
+roofing,5,none,very late,large,11,0.0,yes,high,13,8,labor
+foundation,10,none,late,medium,13,2.4,no,medium,16,6,labor
+foundation,12,high,on-time,small,13,0.0,no,medium,16,4,weather
+framing,9,none,on-time,large,12,0.2,no,high,11,2,unknown
+foundation,10,moderate,late,medium,5,0.2,yes,medium,18,8,labor
+framing,9,moderate,on-time,large,5,2.1,no,medium,16,7,weather
+framing,9,none,on-time,small,6,0.1,no,low,11,2,weather
+plumbing,8,moderate,on-time,small,5,1.7,no,medium,15,7,weather
+foundation,11,none,on-time,large,13,0.0,yes,high,12,1,unknown
+electrical,5,none,very late,large,13,0.5,no,medium,11,6,labor
+framing,11,none,on-time,large,10,1.1,no,high,13,2,unknown
+roofing,9,moderate,late,small,3,0.4,yes,low,17,8,labor
+framing,7,high,late,large,8,1.9,no,high,16,9,weather
+roofing,6,moderate,late,small,13,2.0,no,low,10,4,labor
+plumbing,6,none,on-time,medium,12,0.0,no,low,8,2,weather
+electrical,8,none,on-time,medium,12,0.0,no,medium,10,2,unknown
+framing,12,none,on-time,large,12,3.0,no,high,17,5,material
+roofing,7,moderate,late,small,12,0.0,yes,medium,14,7,labor
+framing,11,none,on-time,large,11,0.0,yes,high,15,4,unknown
+roofing,7,none,on-time,small,3,0.0,no,low,11,4,weather
+roofing,5,high,very late,small,4,3.0,no,low,17,12,labor
+plumbing,7,moderate,late,large,10,0.8,no,high,12,5,labor
+roofing,8,none,late,small,12,0.6,yes,high,15,7,labor
+roofing,5,high,on-time,large,9,0.0,yes,high,13,8,weather
+framing,7,none,late,small,14,0.7,no,medium,10,3,labor
+plumbing,7,moderate,late,large,11,1.2,yes,low,12,5,labor
+roofing,9,moderate,late,large,5,0.0,yes,high,19,10,labor
+foundation,13,none,on-time,medium,13,0.0,no,medium,13,0,unknown
+electrical,6,none,on-time,medium,9,0.5,no,medium,9,3,unknown
+framing,12,high,on-time,large,8,3.2,no,medium,19,7,weather
+plumbing,4,moderate,late,small,11,0.0,no,medium,8,4,labor
+foundation,10,none,very late,medium,5,1.6,no,high,20,10,labor
+foundation,13,none,on-time,medium,5,2.5,no,medium,21,8,unknown
+plumbing,5,moderate,late,medium,12,0.0,yes,high,12,7,labor
+plumbing,6,moderate,on-time,large,6,0.0,no,medium,9,3,weather
+plumbing,7,moderate,late,medium,11,2.5,no,medium,14,7,labor
+plumbing,8,high,late,medium,13,0.0,yes,medium,17,9,weather
+plumbing,7,moderate,on-time,medium,6,0.0,yes,high,14,7,unknown
+roofing,8,none,late,medium,12,1.6,no,medium,13,5,labor
+plumbing,6,moderate,late,small,3,2.0,no,medium,13,7,labor
+plumbing,8,moderate,on-time,medium,7,1.9,no,high,13,5,unknown
+plumbing,4,moderate,late,small,11,1.4,no,low,9,5,labor
+foundation,13,high,on-time,small,10,1.1,no,low,15,2,weather
+foundation,15,moderate,on-time,small,7,4.3,no,high,23,8,material
+roofing,8,high,on-time,medium,13,1.0,yes,medium,15,7,weather
+framing,10,moderate,late,medium,9,0.1,yes,medium,15,5,labor
+foundation,11,high,on-time,large,6,1.1,no,low,18,7,weather
+plumbing,7,none,on-time,large,14,0.7,yes,medium,9,2,unknown
+plumbing,5,high,late,small,13,0.7,no,medium,11,6,weather
+electrical,8,moderate,on-time,medium,9,1.8,yes,medium,14,6,unknown
+plumbing,4,moderate,on-time,medium,14,2.6,no,medium,8,4,weather
+plumbing,7,high,late,medium,4,2.9,no,medium,18,11,weather
+plumbing,7,none,late,large,9,2.8,no,medium,13,6,labor
+electrical,4,moderate,on-time,small,14,0.0,no,high,9,5,unknown
+electrical,4,none,very late,medium,6,0.6,yes,low,12,8,labor
+plumbing,6,high,on-time,medium,12,1.2,no,medium,11,5,weather
+framing,12,moderate,late,medium,5,2.1,no,medium,20,8,labor
+framing,9,moderate,on-time,small,5,3.5,yes,high,21,12,material
+plumbing,6,none,on-time,small,4,0.5,yes,medium,12,6,unknown
+plumbing,4,high,on-time,large,11,3.0,yes,medium,12,8,weather
+foundation,13,high,very late,medium,9,1.9,no,medium,23,10,labor
+plumbing,8,moderate,late,medium,4,3.8,no,high,19,11,labor
+electrical,5,high,very late,large,9,0.2,no,low,13,8,labor
+framing,9,none,very late,medium,10,0.1,no,low,13,4,labor
+roofing,6,none,on-time,large,6,0.0,no,high,11,5,unknown
+foundation,15,moderate,on-time,large,4,0.6,no,medium,21,6,weather
+framing,11,high,very late,medium,3,3.4,no,low,25,14,labor
+foundation,11,high,very late,medium,9,0.0,no,medium,20,9,labor
+foundation,14,none,late,large,14,1.2,no,medium,17,3,labor
+foundation,15,none,very late,large,12,2.1,no,medium,22,7,labor
+framing,8,moderate,late,large,14,1.5,no,high,14,6,labor
+framing,8,none,on-time,large,7,1.8,yes,medium,14,6,unknown
+foundation,14,moderate,on-time,medium,3,1.5,yes,low,21,7,unknown
+framing,10,none,late,small,5,0.8,no,medium,16,6,labor
+foundation,10,moderate,on-time,large,10,1.0,no,high,14,4,unknown
+foundation,13,none,very late,medium,7,1.6,yes,medium,22,9,labor
+plumbing,7,none,late,medium,8,2.6,yes,medium,14,7,labor
+foundation,13,none,very late,small,6,0.2,yes,low,20,7,labor
+plumbing,7,moderate,on-time,small,5,0.5,no,medium,10,3,weather
+roofing,5,none,very late,small,13,0.0,no,medium,11,6,labor
+plumbing,4,none,very late,medium,7,1.8,no,high,13,9,labor
+roofing,9,none,very late,large,8,0.0,yes,medium,17,8,labor
+plumbing,5,none,late,medium,10,1.2,yes,low,9,4,labor
+electrical,7,none,on-time,large,8,0.4,yes,low,10,3,unknown
+roofing,6,none,late,small,10,0.0,yes,medium,10,4,labor
+foundation,11,moderate,on-time,small,10,0.0,no,low,13,2,weather
+foundation,12,moderate,on-time,small,3,1.6,yes,low,20,8,unknown
+framing,9,high,on-time,large,12,0.5,yes,medium,14,5,weather
+foundation,15,high,on-time,large,3,1.0,no,low,22,7,weather
+electrical,4,high,very late,medium,11,1.4,no,medium,13,9,labor
+plumbing,4,none,late,large,12,1.6,no,medium,8,4,labor
+foundation,12,high,on-time,small,11,0.4,no,low,16,4,weather
+roofing,8,none,late,large,6,3.0,no,medium,16,8,labor
+roofing,7,moderate,on-time,medium,4,0.5,no,high,13,6,unknown
+framing,9,moderate,late,large,14,2.7,no,medium,14,5,labor
+electrical,5,high,very late,medium,7,2.6,no,medium,16,11,labor
+roofing,7,high,on-time,medium,12,0.0,yes,medium,13,6,weather
+roofing,8,moderate,late,large,5,1.6,no,low,15,7,labor
+foundation,11,moderate,on-time,small,8,0.2,no,low,12,1,weather
+plumbing,8,none,very late,large,12,0.0,yes,low,16,8,labor
+electrical,4,moderate,on-time,large,5,3.5,no,high,12,8,material
+plumbing,8,none,on-time,medium,6,2.6,no,high,12,4,unknown
+framing,12,moderate,on-time,small,3,3.1,no,medium,19,7,weather
+framing,9,moderate,on-time,medium,9,0.0,no,high,11,2,unknown
+roofing,7,moderate,very late,large,12,0.0,no,low,13,6,labor
+plumbing,8,moderate,on-time,small,10,0.0,no,medium,10,2,weather
+plumbing,5,none,very late,large,3,0.6,no,medium,16,11,labor
+plumbing,7,high,on-time,medium,9,0.7,no,medium,13,6,weather
+foundation,14,moderate,very late,small,7,2.0,no,medium,21,7,labor
+roofing,7,none,on-time,large,9,1.3,no,medium,9,2,unknown
+roofing,9,none,very late,large,8,2.0,no,medium,18,9,labor
+framing,11,high,very late,small,12,1.4,yes,high,21,10,labor
+foundation,11,none,late,large,10,0.0,yes,high,18,7,labor
+plumbing,5,none,very late,medium,7,2.4,yes,medium,15,10,labor
+electrical,5,none,on-time,small,13,0.9,no,medium,5,0,unknown
+plumbing,4,none,on-time,large,4,1.4,no,medium,9,5,unknown
+plumbing,5,moderate,on-time,medium,5,1.7,yes,low,12,7,unknown
+framing,11,high,on-time,medium,11,1.0,no,low,15,4,weather
+framing,8,moderate,on-time,medium,4,2.6,no,medium,14,6,weather
+foundation,13,none,on-time,small,4,3.7,yes,medium,22,9,material
+roofing,7,none,on-time,small,6,0.4,no,medium,10,3,unknown
+electrical,7,none,late,small,9,0.9,no,low,10,3,labor
+electrical,8,moderate,on-time,medium,5,1.9,no,high,14,6,unknown
+electrical,8,moderate,very late,medium,12,1.3,no,low,13,5,labor
+foundation,12,none,on-time,small,3,3.4,no,low,18,6,weather
+framing,9,moderate,on-time,large,7,0.0,yes,low,14,5,unknown
+electrical,8,none,on-time,medium,14,2.0,no,low,9,1,weather
+roofing,9,moderate,on-time,large,4,0.0,no,low,14,5,weather
+plumbing,5,none,on-time,medium,7,0.0,yes,medium,11,6,unknown
+roofing,6,high,late,small,3,1.8,no,low,16,10,weather
+foundation,10,high,on-time,large,4,5.8,no,high,22,12,weather
+foundation,14,high,late,large,4,0.0,no,low,21,7,weather
+foundation,12,none,on-time,large,12,0.6,yes,medium,15,3,unknown
+framing,12,none,on-time,medium,6,2.5,yes,medium,18,6,unknown
+plumbing,5,high,late,small,3,2.7,no,medium,16,11,weather
+plumbing,8,moderate,on-time,small,11,0.0,no,medium,10,2,weather
+framing,12,moderate,very late,medium,6,0.3,no,medium,21,9,labor
+roofing,8,none,on-time,small,11,1.7,no,high,11,3,unknown
+plumbing,5,moderate,on-time,small,14,2.6,no,low,8,3,weather
+foundation,13,none,very late,small,10,0.0,no,medium,19,6,labor
+framing,10,none,late,large,10,0.0,yes,medium,16,6,labor
+foundation,10,none,on-time,medium,14,0.0,yes,low,11,1,unknown
+electrical,4,none,on-time,large,11,0.5,no,medium,5,1,unknown
+electrical,4,high,on-time,large,4,2.2,no,high,14,10,weather
+electrical,5,none,on-time,small,4,0.3,no,low,8,3,weather
+foundation,12,none,late,small,11,1.7,no,medium,18,6,labor
+plumbing,6,none,late,large,7,2.8,no,low,13,7,labor
+framing,11,none,late,small,5,0.1,no,medium,17,6,labor
+roofing,7,none,on-time,medium,5,1.5,yes,medium,14,7,unknown
+roofing,6,none,on-time,large,12,0.0,no,medium,8,2,unknown
+plumbing,8,high,late,large,10,1.8,no,high,17,9,weather
+roofing,9,high,late,small,11,0.0,no,low,14,5,weather
+framing,7,moderate,on-time,small,10,1.4,yes,low,12,5,unknown
+roofing,7,none,on-time,medium,8,0.8,no,medium,10,3,unknown
+framing,8,high,on-time,small,12,1.9,no,low,12,4,weather
+roofing,9,none,very late,small,11,3.4,no,medium,16,7,labor
+framing,8,none,late,small,8,3.7,no,low,13,5,labor
+framing,10,none,on-time,small,5,0.2,no,low,12,2,weather
+framing,11,none,very late,medium,13,2.5,yes,low,18,7,labor
+roofing,8,none,on-time,large,11,1.1,no,low,8,0,weather
+framing,8,none,late,small,6,0.0,no,low,12,4,labor
+foundation,10,moderate,on-time,small,13,2.1,no,medium,12,2,weather
+electrical,4,none,on-time,medium,12,0.2,yes,low,8,4,unknown
+framing,8,high,on-time,medium,10,2.2,no,medium,14,6,weather
+framing,9,moderate,on-time,large,8,2.5,yes,medium,16,7,unknown
+electrical,8,moderate,late,medium,6,3.4,no,high,18,10,labor
+electrical,7,moderate,on-time,small,9,0.0,yes,low,10,3,unknown
+electrical,5,none,on-time,small,10,0.8,no,high,7,2,unknown
+electrical,8,moderate,very late,large,14,0.6,no,high,17,9,labor
+framing,11,high,late,large,7,1.7,no,high,20,9,weather
+electrical,5,moderate,on-time,small,12,0.3,no,high,10,5,unknown
+roofing,5,none,very late,small,4,0.2,no,medium,14,9,labor
+electrical,6,moderate,very late,medium,10,1.1,yes,low,14,8,labor
+electrical,6,moderate,very late,medium,14,0.0,no,medium,12,6,labor
+plumbing,4,moderate,on-time,large,9,3.7,no,low,8,4,weather
+plumbing,6,none,on-time,large,5,0.3,yes,high,14,8,unknown
+framing,7,none,on-time,medium,8,0.0,no,high,11,4,unknown
+roofing,7,none,on-time,large,3,0.0,no,medium,12,5,unknown
+foundation,11,none,on-time,small,10,0.0,no,medium,11,0,unknown
+foundation,10,moderate,late,small,6,0.6,no,low,15,5,labor
+plumbing,7,moderate,on-time,large,6,2.0,no,low,11,4,weather
+framing,12,high,on-time,small,5,1.0,no,low,17,5,weather
+framing,7,high,on-time,large,10,1.1,yes,low,12,5,weather
+foundation,10,none,on-time,large,13,3.4,no,medium,12,2,material
+framing,12,none,very late,large,9,0.8,yes,high,21,9,labor
+foundation,15,high,on-time,small,5,0.0,no,high,22,7,weather
+roofing,6,high,on-time,small,6,3.3,no,medium,16,10,weather
+foundation,13,moderate,very late,small,3,1.8,no,medium,24,11,labor
+foundation,13,moderate,late,medium,14,1.2,no,medium,17,4,labor
+framing,9,moderate,on-time,small,7,1.7,yes,high,17,8,unknown
+roofing,5,moderate,on-time,large,6,3.3,no,medium,11,6,weather
+roofing,6,moderate,very late,small,12,1.4,no,high,14,8,labor
+framing,8,none,very late,large,3,0.0,no,low,15,7,labor
+electrical,5,none,on-time,medium,11,1.9,no,medium,6,1,unknown
+foundation,15,none,on-time,small,5,1.4,yes,low,20,5,unknown
+framing,9,moderate,on-time,large,3,0.0,no,low,12,3,weather
+roofing,6,moderate,on-time,small,13,1.9,no,high,11,5,unknown
+electrical,5,none,late,medium,5,0.8,yes,low,11,6,labor
+foundation,11,high,on-time,medium,14,0.0,no,high,16,5,weather
+roofing,7,none,late,large,4,2.5,yes,low,17,10,labor
+electrical,5,none,on-time,small,3,1.5,no,medium,9,4,unknown
+plumbing,6,high,late,medium,9,1.2,no,low,11,5,weather
+roofing,9,moderate,on-time,large,3,3.4,no,medium,18,9,weather
+roofing,5,moderate,on-time,medium,12,2.3,no,medium,8,3,weather
+roofing,9,none,on-time,large,13,4.4,no,medium,12,3,material
+plumbing,8,high,on-time,small,14,0.0,no,medium,11,3,weather
+foundation,15,none,on-time,large,5,1.5,yes,medium,21,6,unknown
+framing,9,high,late,large,3,2.0,no,low,19,10,weather
+plumbing,8,none,late,medium,4,0.3,no,low,15,7,labor
+foundation,15,moderate,on-time,medium,12,0.0,yes,medium,19,4,unknown
+roofing,8,none,late,small,8,1.4,no,low,12,4,labor
+electrical,8,high,late,medium,5,1.7,no,medium,16,8,weather
+plumbing,7,none,on-time,medium,7,2.2,yes,medium,12,5,unknown
+roofing,8,moderate,very late,large,14,0.0,yes,medium,16,8,labor
+roofing,5,none,late,large,7,0.0,no,medium,10,5,labor
+roofing,9,none,on-time,small,14,2.5,yes,low,13,4,unknown
+foundation,13,none,late,large,14,1.7,no,high,18,5,labor
+framing,8,none,on-time,large,5,3.9,yes,high,18,10,material
+foundation,15,none,late,large,4,0.0,no,medium,20,5,labor
+plumbing,4,high,on-time,medium,11,2.0,yes,low,11,7,weather
+electrical,6,high,very late,medium,9,0.3,yes,medium,16,10,labor
+roofing,6,moderate,late,medium,6,3.4,no,medium,14,8,labor
+framing,12,moderate,on-time,large,5,1.5,no,high,19,7,unknown
+electrical,6,none,on-time,large,6,3.1,yes,high,14,8,material
+framing,9,none,on-time,large,10,0.0,no,medium,12,3,unknown
+framing,12,high,very late,medium,7,3.7,no,low,24,12,labor
+electrical,5,high,late,small,4,0.0,yes,high,17,12,weather
+foundation,14,none,on-time,small,8,2.1,no,low,16,2,weather
+roofing,8,none,on-time,small,3,0.4,no,medium,13,5,unknown
+roofing,9,none,very late,medium,14,0.8,no,medium,14,5,labor
+electrical,7,moderate,on-time,large,7,2.5,no,low,11,4,weather
+plumbing,5,none,late,medium,8,0.0,no,high,10,5,labor
+roofing,7,high,late,medium,9,5.4,no,medium,16,9,weather
+framing,9,moderate,on-time,large,5,2.2,yes,medium,18,9,unknown
+plumbing,4,high,on-time,small,13,0.0,no,low,5,1,weather
+foundation,10,high,on-time,large,7,0.0,no,medium,16,6,weather
+roofing,5,moderate,very late,large,5,1.7,yes,medium,18,13,labor
+roofing,6,moderate,late,large,3,0.0,no,medium,13,7,labor
+foundation,13,moderate,very late,medium,9,1.3,no,medium,20,7,labor
+electrical,8,none,on-time,small,5,0.0,no,medium,12,4,unknown
+plumbing,5,high,late,large,4,0.0,yes,medium,15,10,weather
+electrical,6,none,late,large,5,0.4,yes,medium,13,7,labor
+framing,12,none,on-time,large,12,2.6,yes,low,15,3,unknown
+roofing,7,moderate,on-time,large,14,0.0,yes,low,9,2,unknown
+framing,7,moderate,on-time,small,10,4.3,no,medium,12,5,weather
+foundation,10,none,late,medium,4,1.4,yes,medium,19,9,labor
+framing,11,none,on-time,small,11,0.4,no,low,11,0,weather
+plumbing,5,moderate,late,large,9,3.1,no,high,12,7,labor
+framing,12,none,very late,medium,14,2.3,yes,high,22,10,labor
+roofing,7,none,on-time,small,7,0.0,yes,medium,13,6,unknown
+electrical,8,none,late,medium,3,1.8,no,high,17,9,labor
+roofing,7,high,on-time,medium,8,0.0,yes,high,14,7,weather
+framing,10,moderate,late,small,5,1.9,yes,medium,19,9,labor
+foundation,13,high,late,large,14,0.0,no,low,19,6,weather
+roofing,7,none,very late,small,14,1.8,no,low,11,4,labor
+foundation,10,moderate,on-time,small,13,1.7,no,low,13,3,weather
+roofing,8,moderate,late,small,4,0.8,yes,medium,18,10,labor
+electrical,7,moderate,on-time,large,7,0.0,no,medium,10,3,weather
+electrical,8,none,late,small,14,1.7,no,medium,12,4,labor
+electrical,5,none,on-time,large,11,1.1,no,high,8,3,unknown
+framing,10,none,on-time,small,7,0.4,no,low,12,2,weather
+framing,7,high,late,small,12,0.0,no,low,12,5,weather
+framing,8,moderate,on-time,medium,7,3.4,no,low,10,2,weather
+framing,7,none,very late,small,8,3.5,no,low,16,9,labor
+roofing,9,moderate,late,small,10,0.5,no,low,12,3,labor
+plumbing,8,moderate,late,medium,4,1.3,no,high,15,7,labor
+foundation,10,high,late,small,4,0.3,yes,low,21,11,weather
+electrical,7,none,on-time,medium,12,0.7,no,high,10,3,unknown
+foundation,11,none,on-time,small,12,0.0,yes,medium,15,4,unknown
+framing,10,none,on-time,medium,10,0.0,no,high,12,2,unknown
+plumbing,6,high,late,large,7,2.7,no,high,17,11,weather
+roofing,8,none,on-time,small,13,1.0,no,medium,8,0,unknown
+framing,12,none,on-time,medium,6,1.9,no,medium,16,4,unknown
+framing,8,high,on-time,small,3,0.2,no,medium,15,7,weather
+framing,10,none,late,large,14,0.6,no,high,14,4,labor
+roofing,5,high,very late,large,7,0.5,no,medium,15,10,labor
+framing,10,none,late,small,14,1.3,no,low,14,4,labor
+roofing,5,moderate,on-time,medium,13,0.0,no,high,10,5,unknown
+foundation,13,none,late,large,11,0.0,yes,medium,19,6,labor
+electrical,7,none,late,small,9,0.0,no,high,11,4,labor
+foundation,14,none,late,small,13,1.6,no,low,18,4,labor
+plumbing,7,moderate,late,large,8,2.9,no,medium,13,6,labor
+electrical,6,none,on-time,small,8,0.0,no,low,6,0,weather
+framing,7,none,late,medium,12,0.0,no,medium,10,3,labor
+electrical,5,high,late,small,3,3.8,yes,low,17,12,weather
+roofing,7,moderate,on-time,small,5,0.6,no,low,12,5,weather
+roofing,5,none,very late,large,11,0.0,yes,high,12,7,labor
+roofing,6,moderate,late,large,3,2.5,no,low,14,8,labor
+roofing,6,high,on-time,large,14,1.9,no,low,9,3,weather
+electrical,7,moderate,on-time,large,9,0.0,yes,medium,11,4,unknown
+electrical,7,moderate,on-time,large,4,0.0,yes,low,13,6,unknown
+plumbing,7,moderate,on-time,small,3,0.7,yes,medium,15,8,unknown
+plumbing,6,none,very late,medium,11,3.3,no,low,12,6,labor
+plumbing,7,none,late,large,10,0.9,no,low,10,3,labor
+roofing,9,moderate,very late,large,14,3.2,no,medium,16,7,labor
+foundation,12,moderate,very late,large,12,3.1,no,medium,19,7,labor
+plumbing,8,moderate,late,medium,8,3.3,no,medium,16,8,labor
+foundation,13,none,on-time,large,5,2.5,no,medium,18,5,unknown
+electrical,6,none,on-time,medium,5,1.2,no,low,9,3,weather
+electrical,6,moderate,late,small,7,1.1,no,low,11,5,labor
+framing,7,none,very late,small,14,0.0,yes,medium,14,7,labor
+foundation,10,moderate,very late,small,3,3.9,yes,medium,25,15,labor
+framing,10,high,on-time,small,14,3.1,yes,low,17,7,weather
+foundation,13,none,on-time,large,9,0.0,no,low,13,0,weather
+electrical,7,none,on-time,large,8,3.4,no,high,14,7,material
+plumbing,4,none,late,medium,7,0.3,no,low,7,3,labor
+roofing,9,none,on-time,medium,7,1.1,yes,medium,13,4,unknown
+electrical,7,moderate,late,small,5,0.0,no,high,14,7,labor

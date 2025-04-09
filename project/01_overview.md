@@ -19,7 +19,6 @@ For this final project, you have a chance to apply the programming techniques le
   2. **Short Written Analysis** (about a page, can be a PDF, Word doc, or Markdown)  
   3. **Copy of Your Original Proposal** (re-uploaded alongside your final files)
 
-
 ## :arrow_right_hook: **Paths to Choose From**
 
 ### 1. Provided Project
@@ -83,9 +82,10 @@ Each project (Provided or Custom) must include:
 
 ## :star: **Grading Criteria**
 
+- **Proposal (10%)**: Clear, well-organized, and addresses all requirements.
 - **Code Quality (40%)**: Clear, modular structure and readability; good documentation; logical flow.
 - **Functionality (30%)**: How well the code accomplishes the project’s goals and processes data accurately.
-- **Analysis (20%)**: Quality of your short written analysis (insights, clarity, reflections).
+- **Analysis (20%)**: Quality of your written (insights, clarity, reflections) and programmed analysis (metrics, models, visualizations).
 - **Creativity/Complexity (10%)**: Ambition of the project, unique ideas, or additional features that go beyond the minimum.
 
 ## :robot: **AI Use**
@@ -100,3 +100,8 @@ As with your previous assignments, you are welcome to use AI tools to help you w
 - **Additional Office Hours**: Special sessions will be hosted during finals week (April 28–May 2) to address last-minute questions or troubleshooting.  
 
 Feel free to drop by if you need help with data sources, debugging, or finalizing your approach. Good luck, and enjoy exploring Python in a hands-on, practical way!
+
+## :hugging_face: **Final Note**
+As surprising as it may sound, the goal of this project is for you to have fun. I hope you either find one of the Provided Projects intriguing or create a Custom Project around a topic you truly care about. The last thing I want is for you to be stressed or have undue anxiety. If you start to feel overwhelmed, please reach out.
+
+You shouldn’t spend more than about six hours on this project (including preparing your proposal), unless you’re really enjoying yourself—then go wild! If you find yourself nearing the six-hour mark, let’s discuss your progress and the next steps.
