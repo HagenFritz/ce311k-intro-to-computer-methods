@@ -87,7 +87,7 @@ Each project (Provided or Custom) must include:
 - **Functionality (30%)**: How well the code accomplishes the project’s goals and processes data accurately.
 - **Analysis (20%)**: Quality of your written (insights, clarity, reflections) and programmed analysis (metrics, models, visualizations).
 
-## :robot: **AI Use**
+## 🤖 **AI Use**
 As with your previous assignments, you are welcome to use AI tools to help you with your project. However, you should use AI tools sparingly and only when necessary. You should also always understand the code that you generate and be able to explain it to someone else. Always attempt writing the code yourself first and then using AI to help debug or improve.
 
 ["Vibe Coding"](https://en.wikipedia.org/wiki/Vibe_coding) is _not_ allowed.
