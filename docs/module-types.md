@@ -107,9 +107,9 @@ Applied exercise in one of three rotating formats. Runs every week, cycling on a
 
 | Activity | Time | Description |
 |---|---|---|
-| Setup | 3 min | Project an engineering scenario on screen. Form groups of 3-4. No IDE. |
-| Decompose | 12 min | Groups answer 5 fixed guiding questions: (1) What are the inputs? (2) What are the outputs? (3) What are the steps? (4) What could go wrong? (5) What would you ask AI to help with? |
-| Present | 8 min | 1-2 groups share their decomposition. Class compares approaches. |
+| Setup | 3 min | Project an engineering scenario on screen. This is a thinking exercise. Students work individually; they may collaborate with neighbors if they choose to. |
+| Decompose | 12 min | Students answer 5 fixed guiding questions: (1) What are the inputs? Where do they come from? (2) What are the outputs? What format? (3) What are the steps to get from inputs to outputs? (4) What could go wrong? (5) What would you ask AI to help with? |
+| Discuss | 8 min | Instructor cold-calls 2-3 students to share a single answer (e.g., "what did you put for inputs?" or "what edge case did you identify?"). Class compares approaches. |
 | Wrap | 2 min | Instructor connects the decomposition to upcoming programming topics. |
 
 **Notes**: Bug Hunt and Refactor exercises should use engineering-relevant code rather than abstract puzzles.
